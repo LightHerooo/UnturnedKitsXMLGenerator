@@ -7,4 +7,8 @@ public class StringUtils {
     public static String createLocalDateTimeStr(String pattern) {
         return LocalDateTime.now().format(DateTimeFormatter.ofPattern(pattern));
     }
+
+    public static boolean isNull(String str) {
+        return str == null || str.isEmpty() || str.isBlank();
+    }
 }

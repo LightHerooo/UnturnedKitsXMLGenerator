@@ -2,6 +2,7 @@ package ru.herooo.projects.unturnedkitsxmlgenerator;
 
 import org.xml.sax.SAXException;
 import ru.herooo.projects.unturnedkitsxmlgenerator.directories.custom.DirectoryKits;
+import ru.herooo.projects.unturnedkitsxmlgenerator.utils.StringUtils;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
@@ -71,7 +72,7 @@ public class UnturnedKitsXMLGenerator {
         }
 
         String pathToDirectory = config.getProperty(PATH_TO_KITS_CONFIGURATION_XML);
-        if (pathToDirectory == null) return null;
+        if (StringUtils.isNull(pathToDirectory)) return null;
 
         File directory = new File(pathToDirectory);
         if (!directory.exists() || !directory.isDirectory())
