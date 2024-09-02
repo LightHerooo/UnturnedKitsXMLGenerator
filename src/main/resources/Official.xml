@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UnturnedItems>
+    <Items>
+        <Item id="2" name="Work Jeans"/>
+        <Item id="3" name="Orange Hoodie"/>
+        <Item id="4" name="Eaglefire"/>
+        <Item id="5" name="Eaglefire Iron Sights"/>
+        <Item id="6" name="Military Magazine"/>
+        <Item id="7" name="Military Suppressor"/>
+        <Item id="8" name="Vertical Grip"/>
+        <Item id="9" name="Red Daypack"/>
+        <Item id="10" name="Police Vest"/>
+        <Item id="11" name="Red Bandana"/>
+        <Item id="13" name="Canned Beans"/>
+        <Item id="14" name="Bottled Water"/>
+        <Item id="15" name="Medkit"/>
+        <Item id="16" name="Camp Axe"/>
+        <Item id="17" name="Military Drum"/>
+        <Item id="18" name="Timberwolf"/>
+        <Item id="19" name="Timberwolf Iron Sights"/>
+        <Item id="20" name="Timberwolf Magazine"/>
+        <Item id="21" name="8x Scope"/>
+        <Item id="22" name="Cross Scope"/>
+        <Item id="23" name="Gold Tuxedo Bottom"/>
+        <Item id="24" name="Gold Tuxedo Top"/>
+        <Item id="25" name="Gold Bowtie"/>
+        <Item id="26" name="Gold Monocle"/>
+        <Item id="27" name="Tophat"/>
+        <Item id="28" name="Portable Gas Can"/>
+        <Item id="29" name="Maple Fortification"/>
+        <Item id="30" name="Maple Barricade"/>
+        <Item id="31" name="Maple Floor"/>
+        <Item id="32" name="Maple Doorway"/>
+        <Item id="33" name="Maple Wall"/>
+        <Item id="34" name="Maple Window"/>
+        <Item id="35" name="Maple Roof"/>
+        <Item id="36" name="Maple Pillar"/>
+        <Item id="37" name="Birch Log"/>
+        <Item id="38" name="Birch Stick"/>
+        <Item id="39" name="Maple Log"/>
+        <Item id="40" name="Maple Stick"/>
+        <Item id="41" name="Pine Log"/>
+        <Item id="42" name="Pine Stick"/>
+        <Item id="43" name="Low Caliber Military Ammunition Crate"/>
+        <Item id="44" name="Low Caliber Civilian Ammunition Box"/>
+        <Item id="45" name="Birch Barricade"/>
+        <Item id="46" name="Pine Barricade"/>
+        <Item id="47" name="Birch Fortification"/>
+        <Item id="48" name="Pine Fortification"/>
+        <Item id="49" name="Birch Doorway"/>
+        <Item id="50" name="Pine Doorway"/>
+        <Item id="51" name="Birch Floor"/>
+        <Item id="52" name="Pine Floor"/>
+        <Item id="53" name="Birch Pillar"/>
+        <Item id="54" name="Pine Pillar"/>
+        <Item id="55" name="Birch Roof"/>
+        <Item id="56" name="Pine Roof"/>
+        <Item id="57" name="Birch Wall"/>
+        <Item id="58" name="Pine Wall"/>
+        <Item id="59" name="Birch Window"/>
+        <Item id="60" name="Pine Window"/>
+        <Item id="61" name="Maple Plank"/>
+        <Item id="62" name="Birch Plank"/>
+        <Item id="63" name="Pine Plank"/>
+        <Item id="64" name="Rope"/>
+        <Item id="65" name="Wire"/>
+        <Item id="66" name="Cloth"/>
+        <Item id="67" name="Metal Scrap"/>
+        <Item id="68" name="Metal Sheet"/>
+        <Item id="69" name="Tape"/>
+        <Item id="70" name="Glue"/>
+        <Item id="71" name="Nails"/>
+        <Item id="72" name="Metal Can"/>
+        <Item id="73" name="Raw Explosives"/>
+        <Item id="74" name="Bricks"/>
+        <Item id="75" name="Chemicals"/>
+        <Item id="76" name="Blowtorch"/>
+        <Item id="77" name="Canned Tomato Soup"/>
+        <Item id="78" name="Canned Chicken Soup"/>
+        <Item id="79" name="Canned Tuna"/>
+        <Item id="80" name="Canned Cola"/>
+        <Item id="81" name="MRE"/>
+        <Item id="82" name="Chips"/>
+        <Item id="83" name="Chocolate Bar"/>
+        <Item id="84" name="Candy Bar"/>
+        <Item id="85" name="Granola Bar"/>
+        <Item id="86" name="Energy Bar"/>
+        <Item id="87" name="Canned Pasta"/>
+        <Item id="88" name="Canned Bacon"/>
+        <Item id="89" name="Canned Beef"/>
+        <Item id="90" name="Canned Sardines"/>
+        <Item id="91" name="Apple Juice"/>
+        <Item id="92" name="Grape Juice"/>
+        <Item id="93" name="Bottled Energy"/>
+        <Item id="94" name="Bottled Coconut"/>
+        <Item id="95" name="Bandage"/>
+        <Item id="96" name="Splint"/>
+        <Item id="97" name="1911"/>
+        <Item id="98" name="1911 Magazine"/>
+        <Item id="99" name="Cobra"/>
+        <Item id="100" name="Cobra Magazine"/>
+        <Item id="101" name="Schofield"/>
+        <Item id="102" name="Schofield Iron Sights"/>
+        <Item id="103" name="Schofield Clip"/>
+        <Item id="104" name="Fire Axe"/>
+        <Item id="105" name="Baseball Bat"/>
+        <Item id="106" name="Hockey Stick"/>
+        <Item id="107" name="Ace"/>
+        <Item id="108" name="Ace Clip"/>
+        <Item id="109" name="Hawkhound"/>
+        <Item id="110" name="Hawkhound Iron Sights"/>
+        <Item id="111" name="Hawkhound Magazine"/>
+        <Item id="112" name="Bluntforce"/>
+        <Item id="113" name="12 Gauge Shells"/>
+        <Item id="114" name="Bluntforce Iron Sights"/>
+        <Item id="115" name="Raw Mauve Berries"/>
+        <Item id="116" name="PDW"/>
+        <Item id="117" name="Honeybadger_Barrel"/>
+        <Item id="118" name="PDW Iron Sights"/>
+        <Item id="119" name="Low Caliber Ranger Ammunition Box"/>
+        <Item id="120" name="Kitchen Knife"/>
+        <Item id="121" name="Military Knife"/>
+        <Item id="122" name="Zubeknakov"/>
+        <Item id="123" name="Ranger Magazine"/>
+        <Item id="124" name="Zubeknakov Iron Sights"/>
+        <Item id="125" name="Ranger Drum"/>
+        <Item id="126" name="Nykorev"/>
+        <Item id="127" name="Nykorev Box"/>
+        <Item id="128" name="Nykorev Iron Sights"/>
+        <Item id="129" name="Snayperskya"/>
+        <Item id="130" name="Snayperskya Magazine"/>
+        <Item id="131" name="Snayperskya Iron Sights"/>
+        <Item id="132" name="Dragonfang"/>
+        <Item id="133" name="Dragonfang Box"/>
+        <Item id="134" name="Dragonfang Iron Sights"/>
+        <Item id="135" name="Golf Club"/>
+        <Item id="136" name="Sledgehammer"/>
+        <Item id="137" name="Butcher Knife"/>
+        <Item id="138" name="Hammer"/>
+        <Item id="139" name="Swiss Knife"/>
+        <Item id="140" name="Butterfly Knife"/>
+        <Item id="141" name="Saw"/>
+        <Item id="142" name="Rake"/>
+        <Item id="143" name="Bipod"/>
+        <Item id="144" name="Ranger Suppressor"/>
+        <Item id="145" name="Horizontal Grip"/>
+        <Item id="146" name="Dot Sight"/>
+        <Item id="147" name="Halo Sight"/>
+        <Item id="148" name="Chevron Scope"/>
+        <Item id="149" name="Military Barrel"/>
+        <Item id="150" name="Military Muzzle"/>
+        <Item id="151" name="Tactical Laser"/>
+        <Item id="152" name="Tactical Light"/>
+        <Item id="153" name="7x Scope"/>
+        <Item id="154" name="Orange Shirt"/>
+        <Item id="155" name="Orange T-Shirt"/>
+        <Item id="156" name="Orange Parka"/>
+        <Item id="157" name="Purple Hoodie"/>
+        <Item id="158" name="Purple Shirt"/>
+        <Item id="159" name="Purple T-Shirt"/>
+        <Item id="160" name="Purple Parka"/>
+        <Item id="161" name="Green Hoodie"/>
+        <Item id="162" name="Green Parka"/>
+        <Item id="163" name="Green Shirt"/>
+        <Item id="164" name="Green T-Shirt"/>
+        <Item id="165" name="Red Hoodie"/>
+        <Item id="166" name="Red Parka"/>
+        <Item id="167" name="Red Shirt"/>
+        <Item id="168" name="Red T-Shirt"/>
+        <Item id="169" name="Yellow Hoodie"/>
+        <Item id="170" name="Yellow Parka"/>
+        <Item id="171" name="Yellow Shirt"/>
+        <Item id="172" name="Yellow T-Shirt"/>
+        <Item id="173" name="Blue Hoodie"/>
+        <Item id="174" name="Blue Parka"/>
+        <Item id="175" name="Blue Shirt"/>
+        <Item id="176" name="Blue T-Shirt"/>
+        <Item id="177" name="White Hoodie"/>
+        <Item id="178" name="White Parka"/>
+        <Item id="179" name="White Shirt"/>
+        <Item id="180" name="White T-Shirt"/>
+        <Item id="181" name="Black Hoodie"/>
+        <Item id="182" name="Black Parka"/>
+        <Item id="183" name="Black Shirt"/>
+        <Item id="184" name="Black T-Shirt"/>
+        <Item id="185" name="Black Bandana"/>
+        <Item id="186" name="Blue Bandana"/>
+        <Item id="187" name="Green Bandana"/>
+        <Item id="188" name="Orange Bandana"/>
+        <Item id="189" name="Purple Bandana"/>
+        <Item id="190" name="White Bandana"/>
+        <Item id="191" name="Yellow Bandana"/>
+        <Item id="192" name="Black Toque"/>
+        <Item id="193" name="Blue Toque"/>
+        <Item id="194" name="Green Toque"/>
+        <Item id="195" name="Orange Toque"/>
+        <Item id="196" name="Purple Toque"/>
+        <Item id="197" name="Red Toque"/>
+        <Item id="198" name="White Toque"/>
+        <Item id="199" name="Yellow Toque"/>
+        <Item id="200" name="Black Daypack"/>
+        <Item id="201" name="Blue Daypack"/>
+        <Item id="202" name="Green Daypack"/>
+        <Item id="203" name="Orange Daypack"/>
+        <Item id="204" name="Purple Daypack"/>
+        <Item id="205" name="White Daypack"/>
+        <Item id="206" name="Yellow Daypack"/>
+        <Item id="207" name="Outfit Jeans"/>
+        <Item id="208" name="Cowboy Jeans"/>
+        <Item id="209" name="Cargo Pants"/>
+        <Item id="211" name="Plaid Shirt"/>
+        <Item id="212" name="Khaki Pants"/>
+        <Item id="213" name="Corduroy Pants"/>
+        <Item id="214" name="Trouser Pants"/>
+        <Item id="215" name="Black Sweatervest"/>
+        <Item id="216" name="Blue Sweatervest"/>
+        <Item id="217" name="Green Sweatervest"/>
+        <Item id="218" name="Orange Sweatervest"/>
+        <Item id="219" name="Purple Sweatervest"/>
+        <Item id="220" name="Red Sweatervest"/>
+        <Item id="221" name="White Sweatervest"/>
+        <Item id="222" name="Yellow Sweatervest"/>
+        <Item id="223" name="Police Top"/>
+        <Item id="224" name="Police Bottom"/>
+        <Item id="225" name="Police Cap"/>
+        <Item id="226" name="Khaki Shorts"/>
+        <Item id="227" name="Cargo Shorts"/>
+        <Item id="228" name="Corduroy Shorts"/>
+        <Item id="229" name="Trouser Shorts"/>
+        <Item id="230" name="Chef Top"/>
+        <Item id="231" name="Chef Bottom"/>
+        <Item id="232" name="Construction Top"/>
+        <Item id="233" name="Firefighter Top"/>
+        <Item id="234" name="Firefighter Bottom"/>
+        <Item id="235" name="Ghillie Top [Forest]"/>
+        <Item id="236" name="Ghillie Bottom [Forest]"/>
+        <Item id="237" name="Ghillie Hood [Forest]"/>
+        <Item id="238" name="Ghillie Vest [Forest]"/>
+        <Item id="239" name="Chef Hat"/>
+        <Item id="240" name="Construction Helmet"/>
+        <Item id="241" name="Firefighter Helmet"/>
+        <Item id="242" name="Farmer Top"/>
+        <Item id="243" name="Farmer Bottom"/>
+        <Item id="244" name="Farmer Hat"/>
+        <Item id="245" name="Black Travelpack"/>
+        <Item id="246" name="Blue Travelpack"/>
+        <Item id="247" name="Green Travelpack"/>
+        <Item id="248" name="Orange Travelpack"/>
+        <Item id="249" name="Purple Travelpack"/>
+        <Item id="250" name="Red Travelpack"/>
+        <Item id="251" name="White Travelpack"/>
+        <Item id="252" name="Yellow Travelpack"/>
+        <Item id="253" name="Alicepack"/>
+        <Item id="254" name="Fragmentation Grenade"/>
+        <Item id="255" name="Blue Flare"/>
+        <Item id="256" name="Green Flare"/>
+        <Item id="257" name="Orange Flare"/>
+        <Item id="258" name="Purple Flare"/>
+        <Item id="259" name="Red Flare"/>
+        <Item id="260" name="Yellow Flare"/>
+        <Item id="261" name="Black Smoke"/>
+        <Item id="262" name="Blue Smoke"/>
+        <Item id="263" name="Green Smoke"/>
+        <Item id="264" name="Orange Smoke"/>
+        <Item id="265" name="Purple Smoke"/>
+        <Item id="266" name="Red Smoke"/>
+        <Item id="267" name="White Smoke"/>
+        <Item id="268" name="Yellow Smoke"/>
+        <Item id="269" name="Vaccine"/>
+        <Item id="270" name="Raw Amber Berries"/>
+        <Item id="271" name="Raw Indigo Berries"/>
+        <Item id="272" name="Raw Jade Berries"/>
+        <Item id="273" name="Raw Russet Berries"/>
+        <Item id="274" name="Raw Teal Berries"/>
+        <Item id="275" name="Raw Vermillion Berries"/>
+        <Item id="276" name="Flashlight"/>
+        <Item id="277" name="Carjack"/>
+        <Item id="278" name="Festive Hat"/>
+        <Item id="279" name="Festive Top"/>
+        <Item id="280" name="Festive Bottom"/>
+        <Item id="281" name="Maple Door"/>
+        <Item id="282" name="Birch Door"/>
+        <Item id="283" name="Pine Door"/>
+        <Item id="284" name="Jail Door"/>
+        <Item id="285" name="Metal Bar"/>
+        <Item id="286" name="Vault Door"/>
+        <Item id="287" name="Bars Fortification"/>
+        <Item id="288" name="Black Bedroll"/>
+        <Item id="289" name="Blue Bedroll"/>
+        <Item id="290" name="Green Bedroll"/>
+        <Item id="291" name="Orange Bedroll"/>
+        <Item id="292" name="Purple Bedroll"/>
+        <Item id="293" name="Red Bedroll"/>
+        <Item id="294" name="White Bedroll"/>
+        <Item id="295" name="Yellow Bedroll"/>
+        <Item id="296" name="16x Scope"/>
+        <Item id="297" name="Grizzly"/>
+        <Item id="298" name="Grizzly Magazine"/>
+        <Item id="299" name="Grizzly Iron Sights"/>
+        <Item id="300" name="Shadowstalker"/>
+        <Item id="301" name="Rail"/>
+        <Item id="302" name="Shadowstalker Scope"/>
+        <Item id="303" name="Prisoner Top"/>
+        <Item id="304" name="Prisoner Bottom"/>
+        <Item id="305" name="RCMP Bottom"/>
+        <Item id="306" name="RCMP Top"/>
+        <Item id="307" name="Forest Military Top"/>
+        <Item id="308" name="Forest Military Bottom"/>
+        <Item id="309" name="Forest Military Helmet"/>
+        <Item id="310" name="Forest Military Vest"/>
+        <Item id="311" name="Medic Top"/>
+        <Item id="312" name="Medic Bottom"/>
+        <Item id="313" name="RCMP Hat"/>
+        <Item id="314" name="Grocer Top"/>
+        <Item id="315" name="Grocer Bottom"/>
+        <Item id="316" name="Maple Stairs"/>
+        <Item id="317" name="Pine Stairs"/>
+        <Item id="318" name="Birch Stairs"/>
+        <Item id="319" name="Maple Hole"/>
+        <Item id="320" name="Pine Hole"/>
+        <Item id="321" name="Birch Hole"/>
+        <Item id="322" name="Maple Ramp"/>
+        <Item id="323" name="Birch Ramp"/>
+        <Item id="324" name="Pine Ramp"/>
+        <Item id="325" name="Maple Ladder"/>
+        <Item id="326" name="Birch Ladder"/>
+        <Item id="327" name="Pine Ladder"/>
+        <Item id="328" name="Locker"/>
+        <Item id="329" name="Carrot"/>
+        <Item id="330" name="Carrot Seed"/>
+        <Item id="331" name="Planter"/>
+        <Item id="332" name="Fertilizer"/>
+        <Item id="333" name="Binoculars"/>
+        <Item id="334" name="Military Nightvision"/>
+        <Item id="335" name="Corn"/>
+        <Item id="336" name="Corn Seed"/>
+        <Item id="337" name="Canteen"/>
+        <Item id="338" name="Lettuce"/>
+        <Item id="339" name="Lettuce Seed"/>
+        <Item id="340" name="Tomato"/>
+        <Item id="341" name="Tomato Seed"/>
+        <Item id="342" name="Potato"/>
+        <Item id="343" name="Potato Seed"/>
+        <Item id="344" name="Wheat"/>
+        <Item id="345" name="Wheat Seed"/>
+        <Item id="346" name="Crossbow"/>
+        <Item id="347" name="Arrow"/>
+        <Item id="348" name="Maple Arrow"/>
+        <Item id="349" name="Crossbow Iron Sights"/>
+        <Item id="350" name="Crossbow_Barrel"/>
+        <Item id="351" name="Birch Arrow"/>
+        <Item id="352" name="Pine Arrow"/>
+        <Item id="353" name="Maple Bow"/>
+        <Item id="354" name="Bow_Barrel"/>
+        <Item id="355" name="Birch Bow"/>
+        <Item id="356" name="Pine Bow"/>
+        <Item id="357" name="Compound Bow"/>
+        <Item id="358" name="Compound Iron Sights"/>
+        <Item id="359" name="Maple Torch"/>
+        <Item id="360" name="Birch Torch"/>
+        <Item id="361" name="Pine Torch"/>
+        <Item id="362" name="Campfire"/>
+        <Item id="363" name="Maplestrike"/>
+        <Item id="364" name="Maplestrike Iron Sights"/>
+        <Item id="365" name="Sandbag"/>
+        <Item id="366" name="Maple Crate"/>
+        <Item id="367" name="Birch Crate"/>
+        <Item id="368" name="Pine Crate"/>
+        <Item id="369" name="Metal Floor"/>
+        <Item id="370" name="Metal Doorway"/>
+        <Item id="371" name="Metal Wall"/>
+        <Item id="372" name="Metal Window"/>
+        <Item id="373" name="Metal Roof"/>
+        <Item id="374" name="Metal Pillar"/>
+        <Item id="375" name="Metal Stairs"/>
+        <Item id="376" name="Metal Hole"/>
+        <Item id="377" name="Metal Ramp"/>
+        <Item id="378" name="Metal Door"/>
+        <Item id="379" name="Metal Ladder"/>
+        <Item id="380" name="Masterkey"/>
+        <Item id="381" name="20 Gauge Shells"/>
+        <Item id="382" name="Caltrop"/>
+        <Item id="383" name="Maple Spikes"/>
+        <Item id="384" name="Birch Spikes"/>
+        <Item id="385" name="Pine Spikes"/>
+        <Item id="386" name="Barbed Wire"/>
+        <Item id="387" name="Adrenaline"/>
+        <Item id="388" name="Morphine"/>
+        <Item id="389" name="Antibiotics"/>
+        <Item id="390" name="Painkillers"/>
+        <Item id="391" name="Vitamins"/>
+        <Item id="392" name="Purification Tablets"/>
+        <Item id="393" name="Rag"/>
+        <Item id="394" name="Dressing"/>
+        <Item id="395" name="Bloodbag"/>
+        <Item id="396" name="Refined Mauve Berries"/>
+        <Item id="397" name="Refined Amber Berries"/>
+        <Item id="398" name="Refined Indigo Berries"/>
+        <Item id="399" name="Refined Jade Berries"/>
+        <Item id="400" name="Refined Russet Berries"/>
+        <Item id="401" name="Refined Teal Berries"/>
+        <Item id="402" name="Refined Vermillion Berries"/>
+        <Item id="403" name="Suturekit"/>
+        <Item id="404" name="Cough Syrup"/>
+        <Item id="405" name="Mechanic Top"/>
+        <Item id="406" name="Mechanic Bottom"/>
+        <Item id="407" name="Engineer Top"/>
+        <Item id="408" name="Engineer Bottom"/>
+        <Item id="409" name="Pilot Aviators"/>
+        <Item id="410" name="Black Poncho"/>
+        <Item id="411" name="Blue Poncho"/>
+        <Item id="412" name="Green Poncho"/>
+        <Item id="413" name="Orange Poncho"/>
+        <Item id="414" name="Purple Poncho"/>
+        <Item id="415" name="Red Poncho"/>
+        <Item id="416" name="White Poncho"/>
+        <Item id="417" name="Yellow Poncho"/>
+        <Item id="418" name="Headphones"/>
+        <Item id="419" name="Pilot Jacket"/>
+        <Item id="420" name="Biker Jacket"/>
+        <Item id="421" name="Suit Top"/>
+        <Item id="422" name="Suit Bottom"/>
+        <Item id="423" name="Engineer Hat"/>
+        <Item id="424" name="Fedora"/>
+        <Item id="425" name="Black Cap"/>
+        <Item id="426" name="Blue Cap"/>
+        <Item id="427" name="Green Cap"/>
+        <Item id="428" name="Orange Cap"/>
+        <Item id="429" name="Purple Cap"/>
+        <Item id="430" name="Red Cap"/>
+        <Item id="431" name="White Cap"/>
+        <Item id="432" name="Yellow Cap"/>
+        <Item id="433" name="Beret (Forest)"/>
+        <Item id="434" name="Black Balaclava"/>
+        <Item id="435" name="Blue Balaclava"/>
+        <Item id="436" name="Green Balaclava"/>
+        <Item id="437" name="Orange Balaclava"/>
+        <Item id="438" name="Purple Balaclava"/>
+        <Item id="439" name="Red Balaclava"/>
+        <Item id="440" name="White Balaclava"/>
+        <Item id="441" name="Yellow Balaclava"/>
+        <Item id="442" name="Maple Rampart"/>
+        <Item id="443" name="Maple Post"/>
+        <Item id="444" name="Birch Rampart"/>
+        <Item id="445" name="Pine Rampart"/>
+        <Item id="446" name="Metal Rampart"/>
+        <Item id="447" name="Birch Post"/>
+        <Item id="448" name="Pine Post"/>
+        <Item id="449" name="Metal Post"/>
+        <Item id="450" name="Maple Garage"/>
+        <Item id="451" name="Maple Gate"/>
+        <Item id="452" name="Birch Garage"/>
+        <Item id="453" name="Pine Garage"/>
+        <Item id="454" name="Metal Garage"/>
+        <Item id="455" name="Birch Gate"/>
+        <Item id="456" name="Pine Gate"/>
+        <Item id="457" name="Metal Gate"/>
+        <Item id="458" name="Portable Generator"/>
+        <Item id="459" name="Spotlight"/>
+        <Item id="460" name="Bread"/>
+        <Item id="461" name="Tuna Sandwich"/>
+        <Item id="462" name="Milk Box"/>
+        <Item id="463" name="Orange Juice"/>
+        <Item id="464" name="Cheese"/>
+        <Item id="465" name="Canned Soda"/>
+        <Item id="466" name="Grilled Cheese Sandwich"/>
+        <Item id="467" name="BLT Sandwich [Inorganic]"/>
+        <Item id="468" name="Ham Sandwich"/>
+        <Item id="469" name="Canned Ham"/>
+        <Item id="470" name="Eggs"/>
+        <Item id="471" name="Cake"/>
+        <Item id="472" name="Bottled Cola"/>
+        <Item id="473" name="Bottled Soda"/>
+        <Item id="474" name="Maple Rifle"/>
+        <Item id="475" name="Rifle Iron Sights"/>
+        <Item id="476" name="Makeshift Scope"/>
+        <Item id="477" name="Makeshift Muffler"/>
+        <Item id="478" name="Rifle Clip"/>
+        <Item id="479" name="Birch Rifle"/>
+        <Item id="480" name="Pine Rifle"/>
+        <Item id="481" name="Maple Bottle"/>
+        <Item id="482" name="Birch Bottle"/>
+        <Item id="483" name="Pine Bottle"/>
+        <Item id="484" name="Sportshot"/>
+        <Item id="485" name="Sportshot Magazine"/>
+        <Item id="486" name="Sportshot Iron Sights"/>
+        <Item id="487" name="Makeshift Bat"/>
+        <Item id="488" name="Desert Falcon"/>
+        <Item id="489" name="Desert Falcon Magazine"/>
+        <Item id="490" name="Chainsaw"/>
+        <Item id="491" name="Gold Aviators"/>
+        <Item id="492" name="3D Glasses"/>
+        <Item id="493" name="Mystery Box Key"/>
+        <Item id="494" name="Red Mystery Box"/>
+        <Item id="495" name="Fez"/>
+        <Item id="496" name="Crown"/>
+        <Item id="497" name="Obi"/>
+        <Item id="498" name="Antlers"/>
+        <Item id="499" name="Paper Hat"/>
+        <Item id="500" name="Headress"/>
+        <Item id="501" name="Viking Helmet"/>
+        <Item id="502" name="Eyepatch"/>
+        <Item id="503" name="Fishing Rod"/>
+        <Item id="504" name="Raw Trout"/>
+        <Item id="505" name="Raw Salmon"/>
+        <Item id="506" name="Birch Rod"/>
+        <Item id="507" name="Maple Rod"/>
+        <Item id="508" name="Pine Rod"/>
+        <Item id="509" name="Fishing Hat"/>
+        <Item id="510" name="Fishing Top"/>
+        <Item id="511" name="Fishing Bottom"/>
+        <Item id="512" name="Cooked Trout"/>
+        <Item id="513" name="Cooked Salmon"/>
+        <Item id="514" name="Raw Venison"/>
+        <Item id="515" name="Cooked Venison"/>
+        <Item id="516" name="Leather"/>
+        <Item id="517" name="Leather Top"/>
+        <Item id="518" name="Leather Bottom"/>
+        <Item id="519" name="Rocket Launcher"/>
+        <Item id="520" name="Rocket"/>
+        <Item id="521" name="Rocket Iron Sights"/>
+        <Item id="522" name="Twitch T-Shirt"/>
+        <Item id="523" name="Jolt T-Shirt"/>
+        <Item id="524" name="Blaze T-Shirt"/>
+        <Item id="525" name="Spark T-Shirt"/>
+        <Item id="526" name="Ember T-Shirt"/>
+        <Item id="527" name="Blue Mystery Box"/>
+        <Item id="528" name="White Tuxedo Top"/>
+        <Item id="529" name="White Tuxedo Bottom"/>
+        <Item id="530" name="White Fedora"/>
+        <Item id="531" name="Pocket Rose"/>
+        <Item id="532" name="Colorful Tie"/>
+        <Item id="533" name="Rainbow Tie"/>
+        <Item id="534" name="Colorful Bowtie"/>
+        <Item id="535" name="Rainbow Bowtie"/>
+        <Item id="536" name="Turtle Shirt"/>
+        <Item id="537" name="Banana Shirt"/>
+        <Item id="538" name="Designer Jeans (Cosmetic)"/>
+        <Item id="539" name="Wave Shirt"/>
+        <Item id="540" name="Fish Shirt"/>
+        <Item id="541" name="Heart Shirt"/>
+        <Item id="542" name="Snow Shirt"/>
+        <Item id="543" name="Tornado Shirt"/>
+        <Item id="544" name="Flower Shirt"/>
+        <Item id="545" name="Pirate Hat"/>
+        <Item id="546" name="Pirate Top"/>
+        <Item id="547" name="Pirate Bottom"/>
+        <Item id="548" name="Designer Jeans"/>
+        <Item id="549" name="Outfit Jeans (Cosmetic)"/>
+        <Item id="550" name="Work Jeans (Cosmetic)"/>
+        <Item id="551" name="Trouser Pants (Cosmetic)"/>
+        <Item id="552" name="Gold Tie"/>
+        <Item id="553" name="Gold Suit Top"/>
+        <Item id="554" name="Gold Suit Bottom"/>
+        <Item id="555" name="Gold Tophat"/>
+        <Item id="556" name="Corduroy Pants (Cosmetic)"/>
+        <Item id="557" name="Khaki Pants (Cosmetic)"/>
+        <Item id="558" name="Astronaut Top"/>
+        <Item id="559" name="Astronaut Bottom"/>
+        <Item id="560" name="Astronaut Helmet"/>
+        <Item id="561" name="Magic Hat"/>
+        <Item id="562" name="Magic Cape"/>
+        <Item id="563" name="Magic Top"/>
+        <Item id="564" name="Magic Bottom"/>
+        <Item id="565" name="Corduroy Shorts (Cosmetic)"/>
+        <Item id="566" name="Khaki Shorts (Cosmetic)"/>
+        <Item id="567" name="Trouser Shorts (Cosmetic)"/>
+        <Item id="568" name="Shades"/>
+        <Item id="569" name="Ushanka"/>
+        <Item id="570" name="Earbuds"/>
+        <Item id="577" name="Carbon Fiber Mystery Box"/>
+        <Item id="578" name="Chrome Plated Mystery Box"/>
+        <Item id="579" name="Jack-o-Lantern (Cosmetic)"/>
+        <Item id="580" name="Halloween Cape"/>
+        <Item id="581" name="Halloween Top"/>
+        <Item id="582" name="Halloween Bottom"/>
+        <Item id="583" name="Halloween Gift Present"/>
+        <Item id="584" name="Mummy Hat"/>
+        <Item id="585" name="Mummy Top"/>
+        <Item id="586" name="Mummy Bottom"/>
+        <Item id="587" name="Skeleton Top"/>
+        <Item id="588" name="Skeleton Bottom"/>
+        <Item id="589" name="Cobweb Bandana"/>
+        <Item id="590" name="Festive Gift Present"/>
+        <Item id="591" name="Snowman Hat"/>
+        <Item id="592" name="Snowman Top"/>
+        <Item id="593" name="Snowman Bottom"/>
+        <Item id="594" name="Carrot Nose"/>
+        <Item id="595" name="Reindeer Nose"/>
+        <Item id="596" name="Holiday Sweater"/>
+        <Item id="597" name="Holiday Scarf"/>
+        <Item id="598" name="Purple Mystery Box"/>
+        <Item id="599" name="Sombrero"/>
+        <Item id="600" name="Conical Hat"/>
+        <Item id="601" name="Jester Cap"/>
+        <Item id="602" name="News Cap"/>
+        <Item id="603" name="Wind Up Key"/>
+        <Item id="604" name="Bucket Helmet"/>
+        <Item id="605" name="Detective Hat"/>
+        <Item id="606" name="Parrot"/>
+        <Item id="607" name="Detective Top"/>
+        <Item id="608" name="Detective Bottom"/>
+        <Item id="609" name="Graduation Cap"/>
+        <Item id="610" name="Mod T-Shirt"/>
+        <Item id="611" name="Swashbuckler Hat"/>
+        <Item id="612" name="Swashbuckler Bottom"/>
+        <Item id="613" name="Swashbuckler Top"/>
+        <Item id="615" name="Cyborg Implant"/>
+        <Item id="616" name="Plague Doctor Hat"/>
+        <Item id="617" name="Plague Doctor Mask"/>
+        <Item id="619" name="Plague Doctor Top"/>
+        <Item id="620" name="Plague Doctor Bottom"/>
+        <Item id="621" name="Queen's Guard Hat"/>
+        <Item id="622" name="Queen's Guard Top"/>
+        <Item id="623" name="Queen's Guard Bottom"/>
+        <Item id="624" name="USA Jersey"/>
+        <Item id="625" name="Australian Jersey"/>
+        <Item id="626" name="Brazilian Jersey"/>
+        <Item id="627" name="Canadian Jersey"/>
+        <Item id="628" name="Chinese Jersey"/>
+        <Item id="629" name="French Jersey"/>
+        <Item id="630" name="German Jersey"/>
+        <Item id="631" name="UK Jersey"/>
+        <Item id="632" name="Polish Jersey"/>
+        <Item id="633" name="Russian Jersey"/>
+        <Item id="634" name="Swedish Jersey"/>
+        <Item id="635" name="Thai Jersey"/>
+        <Item id="636" name="Norwegian Jersey"/>
+        <Item id="637" name="Turkish Jersey"/>
+        <Item id="638" name="Danish Jersey"/>
+        <Item id="639" name="HMD"/>
+        <Item id="640" name="Boom Shirt"/>
+        <Item id="641" name="Dutch Jersey"/>
+        <Item id="642" name="Ukrainian Jersey"/>
+        <Item id="643" name="Argentinian Jersey"/>
+        <Item id="644" name="Filipino Jersey"/>
+        <Item id="645" name="Chilean Jersey"/>
+        <Item id="646" name="Spanish Jersey"/>
+        <Item id="647" name="Italian Jersey"/>
+        <Item id="648" name="Japanese Jersey"/>
+        <Item id="649" name="Korean Jersey"/>
+        <Item id="650" name="Romanian Jersey"/>
+        <Item id="651" name="Mexican Jersey"/>
+        <Item id="652" name="Czech Jersey"/>
+        <Item id="653" name="Indonesian Jersey"/>
+        <Item id="654" name="Portuguese Jersey"/>
+        <Item id="655" name="Finish Jersey"/>
+        <Item id="656" name="Pirate Jersey"/>
+        <Item id="657" name="Spartan Helmet"/>
+        <Item id="658" name="Spartan Breastplate"/>
+        <Item id="659" name="Spartan Top"/>
+        <Item id="660" name="Spartan Bottom"/>
+        <Item id="661" name="Grocery Bag"/>
+        <Item id="663" name="Nelson's Outfit"/>
+        <Item id="664" name="Dark Blue Plaid Shirt"/>
+        <Item id="665" name="Light Blue Plaid Shirt"/>
+        <Item id="666" name="Green Plaid Shirt"/>
+        <Item id="667" name="Orange Plaid Shirt"/>
+        <Item id="668" name="Dark Purple Plaid Shirt"/>
+        <Item id="669" name="Light Purple Plaid Shirt"/>
+        <Item id="670" name="Red Plaid Shirt"/>
+        <Item id="671" name="Bulldozer Hoodie"/>
+        <Item id="672" name="Elephant Hoodie"/>
+        <Item id="673" name="Feather Hoodie"/>
+        <Item id="674" name="Hourglass Hoodie"/>
+        <Item id="675" name="Lucky Hoodie"/>
+        <Item id="676" name="Power Hoodie"/>
+        <Item id="677" name="Squid Hoodie"/>
+        <Item id="678" name="Yield Hoodie"/>
+        <Item id="679" name="Rocket Boots"/>
+        <Item id="680" name="Bandito Mask"/>
+        <Item id="681" name="Snake"/>
+        <Item id="682" name="Navy Hat"/>
+        <Item id="683" name="Navy Top"/>
+        <Item id="684" name="Navy Bottom"/>
+        <Item id="685" name="Bowler Hat"/>
+        <Item id="686" name="Explorer Hat"/>
+        <Item id="687" name="Explorer Top"/>
+        <Item id="688" name="Explorer Bottom"/>
+        <Item id="689" name="Sheriff Star"/>
+        <Item id="690" name="Parkour Hood"/>
+        <Item id="691" name="Parkour Top"/>
+        <Item id="692" name="Parkour Bottom"/>
+        <Item id="693" name="Hot Mystery Box"/>
+        <Item id="694" name="Robo Invader Hat"/>
+        <Item id="695" name="Robo Invader Top"/>
+        <Item id="696" name="Robo Invader Bottom"/>
+        <Item id="697" name="Blueberry Shirt"/>
+        <Item id="698" name="Anniversary Gift Bag"/>
+        <Item id="699" name="Rainbow Origami Party Hat"/>
+        <Item id="700" name="Rainbow Birthday Party Hat"/>
+        <Item id="701" name="Blue Origami Party Hat"/>
+        <Item id="702" name="Green Origami Party Hat"/>
+        <Item id="703" name="Orange Origami Party Hat"/>
+        <Item id="704" name="Purple Origami Party Hat"/>
+        <Item id="705" name="Red Origami Party Hat"/>
+        <Item id="706" name="Yellow Origami Party Hat"/>
+        <Item id="707" name="Blue Birthday Party Hat"/>
+        <Item id="708" name="Green Birthday Party Hat"/>
+        <Item id="709" name="Orange Birthday Party Hat"/>
+        <Item id="710" name="Purple Birthday Party Hat"/>
+        <Item id="711" name="Red Birthday Party Hat"/>
+        <Item id="712" name="Yellow Birthday Party Hat"/>
+        <Item id="713" name="Silver Origami Party Hat"/>
+        <Item id="714" name="Silver Birthday Party Hat"/>
+        <Item id="715" name="Gold Origami Party Hat"/>
+        <Item id="716" name="Gold Birthday Party Hat"/>
+        <Item id="717" name="Samurai Top"/>
+        <Item id="718" name="Samurai Bottom"/>
+        <Item id="719" name="Samurai Kabuto"/>
+        <Item id="720" name="Samurai Dou"/>
+        <Item id="721" name="Samurai Menpo"/>
+        <Item id="722" name="Gold Neck Chain"/>
+        <Item id="723" name="Vintage Ushanka"/>
+        <Item id="724" name="Vintage Trenchcoat Top"/>
+        <Item id="725" name="Arms Shipment Mystery Box"/>
+        <Item id="726" name="Russia Map Mystery Box"/>
+        <Item id="727" name="Medic Glasses"/>
+        <Item id="728" name="Debugger's Beret"/>
+        <Item id="729" name="Bolt"/>
+        <Item id="730" name="Mad Scientist Goggles"/>
+        <Item id="731" name="Mad Scientist Top"/>
+        <Item id="732" name="Vampire Cape"/>
+        <Item id="733" name="Vampire Cowl"/>
+        <Item id="734" name="Vampire Top"/>
+        <Item id="735" name="Grim Necromancer Top"/>
+        <Item id="736" name="Grim Necromancer Bottom"/>
+        <Item id="737" name="Grim Necromancer Mask"/>
+        <Item id="738" name="Experienced Beret"/>
+        <Item id="739" name="White Hat"/>
+        <Item id="740" name="BattlEye"/>
+        <Item id="741" name="Elf Hat"/>
+        <Item id="742" name="Elf Top"/>
+        <Item id="743" name="Gingerbread Top"/>
+        <Item id="744" name="Gingerbread Bottom"/>
+        <Item id="745" name="Gingerbread Mask"/>
+        <Item id="746" name="Toy Soldier Top"/>
+        <Item id="747" name="Toy Soldier Bottom"/>
+        <Item id="748" name="Toy Soldier Hat"/>
+        <Item id="749" name="Nutcracker Top"/>
+        <Item id="750" name="Nutcracker Bottom"/>
+        <Item id="751" name="Nutcracker Hat"/>
+        <Item id="752" name="January 2017 Workshop Crate Key #1"/>
+        <Item id="753" name="January 2017 Workshop Crate #1"/>
+        <Item id="754" name="MA WC Top"/>
+        <Item id="755" name="MA WC Bottom"/>
+        <Item id="756" name="Kukui Nuts"/>
+        <Item id="757" name="Grass Skirt"/>
+        <Item id="758" name="Shuttershades"/>
+        <Item id="759" name="Angry Tiki Mask"/>
+        <Item id="760" name="Happy Tiki Mask"/>
+        <Item id="761" name="Rose Tinted Glasses"/>
+        <Item id="762" name="Lei"/>
+        <Item id="763" name="Camo Boonie Hat"/>
+        <Item id="764" name="Pineapple"/>
+        <Item id="765" name="Plumeria"/>
+        <Item id="766" name="Garland"/>
+        <Item id="767" name="Hawaii Map Mystery Box"/>
+        <Item id="768" name="Hawaii Tee"/>
+        <Item id="769" name="Red Hawaii Tee"/>
+        <Item id="770" name="Shiny Screenshot Contest Sweater"/>
+        <Item id="771" name="Valiant Knight Bottom"/>
+        <Item id="772" name="Valiant Knight Top"/>
+        <Item id="773" name="Valiant Knight Helmet"/>
+        <Item id="774" name="Valiant Knight Shoulders"/>
+        <Item id="775" name="Valiant Knight Cape"/>
+        <Item id="776" name="Skater Bottom"/>
+        <Item id="777" name="Skater Top"/>
+        <Item id="778" name="Skater Beanie"/>
+        <Item id="779" name="Skater Skateboard"/>
+        <Item id="780" name="April 2017 Workshop Crate Key #2"/>
+        <Item id="781" name="April 2017 Workshop Crate #2"/>
+        <Item id="782" name="July 2017 Workshop Crate Key #3"/>
+        <Item id="783" name="July 2017 Workshop Crate #3"/>
+        <Item id="784" name="September 2017 Workshop Crate Key #4"/>
+        <Item id="785" name="September 2017 Workshop Crate #4"/>
+        <Item id="786" name="[Curated content]"/>
+        <Item id="787" name="Scourge of the Sea Chest"/>
+        <Item id="788" name="Scourge of the Sea Hat"/>
+        <Item id="789" name="Scourge of the Sea Face"/>
+        <Item id="790" name="Scourge of the Sea Bottom"/>
+        <Item id="791" name="Scourge of the Sea Top"/>
+        <Item id="792" name="Scourge of the Sea Key"/>
+        <Item id="793" name="Vampire Hunter Hat"/>
+        <Item id="794" name="Vampire Hunter Bottom"/>
+        <Item id="795" name="Vampire Hunter Top"/>
+        <Item id="796" name="Vampire Hunter Bandolier"/>
+        <Item id="797" name="Headless Horseman Cape"/>
+        <Item id="798" name="Headless Horseman Hood"/>
+        <Item id="799" name="Headless Horseman Bottom"/>
+        <Item id="800" name="Headless Horseman Top"/>
+        <Item id="801" name="Headless Horseman Armor"/>
+        <Item id="802" name="Bag o' Heads"/>
+        <Item id="803" name="Spider Bro"/>
+        <Item id="804" name="RocketMod Shirt"/>
+        <Item id="805" name="Aprix Bandit Leader Backpack"/>
+        <Item id="806" name="Aprix Bandit Leader Bandana"/>
+        <Item id="807" name="Aprix Bandit Leader Hat"/>
+        <Item id="808" name="Aprix Bandit Leader Pants"/>
+        <Item id="809" name="Aprix Bandit Leader Shirt"/>
+        <Item id="810" name="Aprix Bandit Leader Shoulders"/>
+        <Item id="811" name="Aprix Bandit Member Backpack"/>
+        <Item id="812" name="Aprix Bandit Member Balaclava"/>
+        <Item id="813" name="Aprix Bandit Member Hat"/>
+        <Item id="814" name="Aprix Bandit Member Pants"/>
+        <Item id="815" name="Aprix Bandit Member Shirt"/>
+        <Item id="816" name="Aprix Bandit Member Bullet Belt"/>
+        <Item id="817" name="Inuit Bottom"/>
+        <Item id="818" name="Inuit Hat"/>
+        <Item id="819" name="Inuit Top"/>
+        <Item id="820" name="Snow Shoes"/>
+        <Item id="821" name="Yeti Bottom"/>
+        <Item id="822" name="Yeti Top"/>
+        <Item id="823" name="Yeti Mask"/>
+        <Item id="824" name="Snow Globe"/>
+        <Item id="825" name="Gingerbread House"/>
+        <Item id="826" name="Ice Cube"/>
+        <Item id="827" name="Snow Sled"/>
+        <Item id="828" name="Seal Pup"/>
+        <Item id="829" name="Mistletoe"/>
+        <Item id="830" name="Reindeer Beanie"/>
+        <Item id="831" name="Greece Map Mystery Box"/>
+        <Item id="832" name="Minotaur Horns"/>
+        <Item id="833" name="Medusa's Hair"/>
+        <Item id="834" name="Olive Leaf Crown"/>
+        <Item id="835" name="Toga Top"/>
+        <Item id="836" name="Hermes' Helmet"/>
+        <Item id="837" name="Pegasus Wings"/>
+        <Item id="838" name="Pegasus Horn"/>
+        <Item id="839" name="Golden Fleece Cape"/>
+        <Item id="840" name="Kratos' Pauldron"/>
+        <Item id="841" name="Athena's Shield"/>
+        <Item id="842" name="Harp"/>
+        <Item id="843" name="Zeus' Voltaic Hair"/>
+        <Item id="845" name="Stat Tracker Total Kills"/>
+        <Item id="846" name="Stat Tracker Player Kills"/>
+        <Item id="847" name="Revolutionary Cap"/>
+        <Item id="848" name="Revolutionary Top"/>
+        <Item id="849" name="Revolutionary Bottom"/>
+        <Item id="850" name="Irish Knight Helm"/>
+        <Item id="851" name="Irish Knight Shoulder Pads"/>
+        <Item id="852" name="Irish Knight Top"/>
+        <Item id="853" name="Irish Knight Bottom"/>
+        <Item id="854" name="Luck o' The Irish Top"/>
+        <Item id="855" name="Luck o' The Irish Bottom"/>
+        <Item id="856" name="Luck o' The Irish Hat"/>
+        <Item id="857" name="Corinthian Helmet"/>
+        <Item id="858" name="Aprix Stealth Bandit Quiver"/>
+        <Item id="859" name="Roman Soldier Cloak"/>
+        <Item id="860" name="Aprix Stealth Bandit Hood"/>
+        <Item id="861" name="Roman Soldier Helmet"/>
+        <Item id="862" name="Aprix Stealth Bandit Mask"/>
+        <Item id="863" name="Aprix Stealth Bandit Pants"/>
+        <Item id="864" name="Roman Soldier Pants"/>
+        <Item id="865" name="Aprix Stealth Bandit Shirt"/>
+        <Item id="866" name="Roman Soldier Shirt"/>
+        <Item id="867" name="Aprix Stealth Bandit Vest"/>
+        <Item id="868" name="Roman Soldier Chestplate"/>
+        <Item id="869" name="Carpat Survivor Top"/>
+        <Item id="870" name="Carpat Survivor Bottom"/>
+        <Item id="871" name="Carpat Survivor Sling"/>
+        <Item id="872" name="Bandaged Wraps"/>
+        <Item id="873" name="Traditional Carpat Top"/>
+        <Item id="874" name="Traditional Carpat Bottom"/>
+        <Item id="875" name="Traditional Carpat Vest"/>
+        <Item id="876" name="Traditional Carpat Cap"/>
+        <Item id="877" name="French Crown"/>
+        <Item id="878" name="French Crusader Bottom"/>
+        <Item id="879" name="French Crusader Top"/>
+        <Item id="880" name="French Crusader Helm"/>
+        <Item id="881" name="French Poilus Helm"/>
+        <Item id="882" name="French Crusader Shield"/>
+        <Item id="883" name="Mime's Baguette"/>
+        <Item id="884" name="Mime's Beret"/>
+        <Item id="885" name="Mime's Pants"/>
+        <Item id="886" name="Mime's Scarf"/>
+        <Item id="887" name="Mime's Shirt"/>
+        <Item id="888" name="RULA Uniform Bottom"/>
+        <Item id="889" name="RULA Uniform Harness"/>
+        <Item id="890" name="RULA Uniform Helmet"/>
+        <Item id="891" name="RULA Uniform Top"/>
+        <Item id="892" name="Small One Way Plate"/>
+        <Item id="893" name="Small Bulletproof Plate"/>
+        <Item id="894" name="Small Weak Plate"/>
+        <Item id="895" name="Cowboy Backpack"/>
+        <Item id="896" name="Cowboy Hat"/>
+        <Item id="897" name="Bounty-Hunter Hat"/>
+        <Item id="898" name="Cowboy Belt"/>
+        <Item id="899" name="Bounty-Hunter Vest"/>
+        <Item id="900" name="Bounty-Hunter Bandana"/>
+        <Item id="901" name="Cowboy Top"/>
+        <Item id="902" name="Cowboy Bottom"/>
+        <Item id="903" name="Bounty-Hunter Top"/>
+        <Item id="904" name="Bounty-Hunter Bottom"/>
+        <Item id="905" name="Cargo Salamander"/>
+        <Item id="906" name="DJ Helm"/>
+        <Item id="907" name="Dragon Horns"/>
+        <Item id="908" name="Dual Katanas"/>
+        <Item id="909" name="^_^ Glasses"/>
+        <Item id="910" name="Hannya Mask"/>
+        <Item id="911" name="Headband"/>
+        <Item id="912" name="Ninja Belt"/>
+        <Item id="913" name="Dango Streetwear Pants"/>
+        <Item id="914" name="Scroll Cloak"/>
+        <Item id="915" name="Dango Streetwear Jacket"/>
+        <Item id="916" name="Sushi Chef Hat"/>
+        <Item id="917" name="TV"/>
+        <Item id="919" name="Rainbow Jersey"/>
+        <Item id="920" name="Warlock Pants"/>
+        <Item id="921" name="Warlock Hat"/>
+        <Item id="922" name="Warlock Mask"/>
+        <Item id="923" name="Warlock Shirt"/>
+        <Item id="924" name="Warlock Vest"/>
+        <Item id="925" name="Obsidian Knight Armor"/>
+        <Item id="926" name="Obsidian Knight Bottom"/>
+        <Item id="927" name="Obsidian Knight Cape"/>
+        <Item id="928" name="Obsidian Knight Helmet"/>
+        <Item id="929" name="Obsidian Knight Top"/>
+        <Item id="930" name="Mercenary Bottom (Cosmetic)"/>
+        <Item id="931" name="Mercenary Heavy Helmet"/>
+        <Item id="932" name="Mercenary Heavy Rig"/>
+        <Item id="933" name="Mercenary Top (Cosmetic)"/>
+        <Item id="934" name="Journalist Shorts"/>
+        <Item id="935" name="Journalist Glasses"/>
+        <Item id="936" name="Journalist Boonie Hat"/>
+        <Item id="937" name="Journalist T-Shirt"/>
+        <Item id="938" name="Journalist Messenger Bag"/>
+        <Item id="939" name="Journalist Recorder"/>
+        <Item id="940" name="Mercenary Heavy Mask"/>
+        <Item id="941" name="Dogtags and Bandolier"/>
+        <Item id="942" name="Cranberry Bandana"/>
+        <Item id="943" name="Tundra Trousers"/>
+        <Item id="944" name="Tundra Tanktop"/>
+        <Item id="945" name="Explorer Pith Helmet"/>
+        <Item id="946" name="Makemake Veil"/>
+        <Item id="947" name="Moai Head (Cosmetic)"/>
+        <Item id="948" name="Stormbrand Mask"/>
+        <Item id="949" name="Tribal Markings"/>
+        <Item id="950" name="Explorer Gear"/>
+        <Item id="951" name="Stormbrand Armor"/>
+        <Item id="952" name="Shark Tooth Necklace"/>
+        <Item id="953" name="King Crab"/>
+        <Item id="954" name="Edible Arrangement"/>
+        <Item id="955" name="Feather Crown"/>
+        <Item id="956" name="Acoustic Guitar"/>
+        <Item id="957" name="Fishbowl"/>
+        <Item id="958" name="Diving Helmet"/>
+        <Item id="959" name="Easter Island Map Bundle"/>
+        <Item id="960" name="Dying Light Volatile Jaw"/>
+        <Item id="961" name="Dying Light Volatile Chest"/>
+        <Item id="962" name="Shiny Art Contest Sweater"/>
+        <Item id="963" name="BattlEye Halo"/>
+        <Item id="964" name="Elver Map Bundle"/>
+        <Item id="965" name="Beanie"/>
+        <Item id="966" name="Motorcyclist Helmet"/>
+        <Item id="967" name="Professional Fishing Vest"/>
+        <Item id="968" name="Fur Hood"/>
+        <Item id="969" name="Pistonpack"/>
+        <Item id="970" name="Propeller Hat"/>
+        <Item id="971" name="Raccoon Hat"/>
+        <Item id="972" name="Elver Pantaloons"/>
+        <Item id="973" name="Elver Jacket"/>
+        <Item id="974" name="Respirator"/>
+        <Item id="975" name="Virtual Goggles"/>
+        <Item id="976" name="Tank Cannon"/>
+        <Item id="977" name="Beast Wings"/>
+        <Item id="978" name="Wolf Hat"/>
+        <Item id="979" name="Green Ski Pants"/>
+        <Item id="980" name="Orange Ski Pants"/>
+        <Item id="981" name="Purple Ski Pants"/>
+        <Item id="982" name="Red Ski Pants"/>
+        <Item id="983" name="Yellow Ski Pants"/>
+        <Item id="984" name="Blue Ski Goggles"/>
+        <Item id="985" name="Green Ski Goggles"/>
+        <Item id="986" name="Orange Ski Goggles"/>
+        <Item id="987" name="Purple Ski Goggles"/>
+        <Item id="988" name="Atmo Ski Goggles"/>
+        <Item id="989" name="Yellow Ski Goggles"/>
+        <Item id="990" name="Elver Top (Blue)"/>
+        <Item id="991" name="Elver Top (Purple)"/>
+        <Item id="992" name="Stat Tracker Removal Tool"/>
+        <Item id="993" name="Ragdoll Effect Removal Tool"/>
+        <Item id="1000" name="Matamorez"/>
+        <Item id="1001" name="Matamorez Iron Sights"/>
+        <Item id="1002" name="Matamorez_Barrel"/>
+        <Item id="1003" name="Matamorez Magazine"/>
+        <Item id="1004" name="Kobra Sight"/>
+        <Item id="1005" name="Matamorez Box"/>
+        <Item id="1006" name="Cobra Box"/>
+        <Item id="1007" name="Adaptive Chambering"/>
+        <Item id="1008" name="Rangefinder"/>
+        <Item id="1009" name="Desert Beret"/>
+        <Item id="1010" name="Desert Military Helmet"/>
+        <Item id="1011" name="Desert Military Top"/>
+        <Item id="1012" name="Desert Military Bottom"/>
+        <Item id="1013" name="Desert Military Vest"/>
+        <Item id="1014" name="Leather Pack"/>
+        <Item id="1015" name="Biohazard Top"/>
+        <Item id="1016" name="Biohazard Bottom"/>
+        <Item id="1017" name="Biohazard Hood"/>
+        <Item id="1018" name="Sabertooth"/>
+        <Item id="1019" name="Sabertooth Iron Sights"/>
+        <Item id="1020" name="Sabertooth Magazine"/>
+        <Item id="1021" name="Avenger"/>
+        <Item id="1022" name="Avenger Magazine"/>
+        <Item id="1023" name="Baton"/>
+        <Item id="1024" name="Peacemaker"/>
+        <Item id="1025" name="Peacemaker Iron Sights"/>
+        <Item id="1026" name="Peacemaker Magazine"/>
+        <Item id="1027" name="Viper"/>
+        <Item id="1028" name="Viper Iron Sights"/>
+        <Item id="1029" name="Viper Magazine"/>
+        <Item id="1030" name="Frying Pan"/>
+        <Item id="1031" name="Shovel"/>
+        <Item id="1032" name="Crowbar"/>
+        <Item id="1033" name="Paddle"/>
+        <Item id="1034" name="Pitchfork"/>
+        <Item id="1035" name="Machete"/>
+        <Item id="1036" name="Katana"/>
+        <Item id="1037" name="Heartbreaker"/>
+        <Item id="1038" name="Heartbreaker Iron Sights"/>
+        <Item id="1039" name="Kryzkarek"/>
+        <Item id="1040" name="Kryzkarek Magazine"/>
+        <Item id="1041" name="Yuri"/>
+        <Item id="1042" name="Yuri Magazine"/>
+        <Item id="1043" name="Yuri Iron Sights"/>
+        <Item id="1044" name="Civilian Nightvision"/>
+        <Item id="1045" name="Pumpkin Seed"/>
+        <Item id="1046" name="Pumpkin"/>
+        <Item id="1047" name="Pumpkin Pie"/>
+        <Item id="1048" name="Hockey Mask"/>
+        <Item id="1049" name="Jack-o-Lantern (Barricade)"/>
+        <Item id="1050" name="Safezone Radiator"/>
+        <Item id="1051" name="$5 Note"/>
+        <Item id="1052" name="$10 Note"/>
+        <Item id="1053" name="$20 Note"/>
+        <Item id="1054" name="$50 Note"/>
+        <Item id="1055" name="$100 Note"/>
+        <Item id="1056" name="Loonie"/>
+        <Item id="1057" name="Toonie"/>
+        <Item id="1058" name="Large Maple Plate"/>
+        <Item id="1059" name="Small Maple Plate"/>
+        <Item id="1060" name="Large Maple Frame"/>
+        <Item id="1061" name="Small Maple Frame"/>
+        <Item id="1062" name="Maple Siding"/>
+        <Item id="1063" name="Maple Pipe"/>
+        <Item id="1064" name="Large Birch Plate"/>
+        <Item id="1065" name="Small Birch Plate"/>
+        <Item id="1066" name="Large Birch Frame"/>
+        <Item id="1067" name="Small Birch Frame"/>
+        <Item id="1068" name="Birch Siding"/>
+        <Item id="1069" name="Birch Pipe"/>
+        <Item id="1070" name="Large Pine Plate"/>
+        <Item id="1071" name="Small Pine Plate"/>
+        <Item id="1072" name="Large Pine Frame"/>
+        <Item id="1073" name="Small Pine Frame"/>
+        <Item id="1074" name="Pine Siding"/>
+        <Item id="1075" name="Pine Pipe"/>
+        <Item id="1076" name="Amber Pie"/>
+        <Item id="1077" name="Indigo Pie"/>
+        <Item id="1078" name="Jade Pie"/>
+        <Item id="1079" name="Mauve Pie"/>
+        <Item id="1080" name="Russet Pie"/>
+        <Item id="1081" name="Teal Pie"/>
+        <Item id="1082" name="Vermillion Pie"/>
+        <Item id="1083" name="Maple Doorframe"/>
+        <Item id="1084" name="Maple Garageframe"/>
+        <Item id="1085" name="Birch Doorframe"/>
+        <Item id="1086" name="Birch Garageframe"/>
+        <Item id="1087" name="Pine Doorframe"/>
+        <Item id="1088" name="Pine Garageframe"/>
+        <Item id="1089" name="Metal Doorframe"/>
+        <Item id="1090" name="Metal Garageframe"/>
+        <Item id="1091" name="Large Metal Plate"/>
+        <Item id="1092" name="Small Metal Plate"/>
+        <Item id="1093" name="Metal Siding"/>
+        <Item id="1094" name="Metal Pipe"/>
+        <Item id="1095" name="Maple Sign"/>
+        <Item id="1096" name="Birch Sign"/>
+        <Item id="1097" name="Pine Sign"/>
+        <Item id="1098" name="Metal Sign"/>
+        <Item id="1099" name="4 Seater Makeshift Vehicle"/>
+        <Item id="1100" name="Sticky Grenade"/>
+        <Item id="1101" name="Landmine"/>
+        <Item id="1102" name="Claymore"/>
+        <Item id="1103" name="Black Umbrella"/>
+        <Item id="1104" name="Amber Berry Seed"/>
+        <Item id="1105" name="Indigo Berry Seed"/>
+        <Item id="1106" name="Jade Berry Seed"/>
+        <Item id="1107" name="Mauve Berry Seed"/>
+        <Item id="1108" name="Russet Berry Seed"/>
+        <Item id="1109" name="Teal Berry Seed"/>
+        <Item id="1110" name="Vermillion Berry Seed"/>
+        <Item id="1111" name="6 Seater Makeshift Vehicle"/>
+        <Item id="1112" name="1 Seater Makeshift Vehicle"/>
+        <Item id="1113" name="Snare"/>
+        <Item id="1114" name="Maple Jerrycan"/>
+        <Item id="1115" name="Birch Jerrycan"/>
+        <Item id="1116" name="Pine Jerrycan"/>
+        <Item id="1117" name="Pork"/>
+        <Item id="1118" name="Bacon"/>
+        <Item id="1119" name="Barbed Wire Fence"/>
+        <Item id="1120" name="Raw Beef"/>
+        <Item id="1121" name="Cooked Beef"/>
+        <Item id="1122" name="Blue Umbrella"/>
+        <Item id="1123" name="Green Umbrella"/>
+        <Item id="1124" name="Orange Umbrella"/>
+        <Item id="1125" name="Purple Umbrella"/>
+        <Item id="1126" name="Red Umbrella"/>
+        <Item id="1127" name="White Umbrella"/>
+        <Item id="1128" name="Yellow Umbrella"/>
+        <Item id="1129" name="Heatstim"/>
+        <Item id="1130" name="Ornamental Barbed Wire"/>
+        <Item id="1131" name="Ornamental Barbed Wire Fence"/>
+        <Item id="1132" name="Snowball"/>
+        <Item id="1133" name="Black Scarf"/>
+        <Item id="1134" name="Blue Scarf"/>
+        <Item id="1135" name="Green Scarf"/>
+        <Item id="1136" name="Orange Scarf"/>
+        <Item id="1137" name="Purple Scarf"/>
+        <Item id="1138" name="Red Scarf"/>
+        <Item id="1139" name="White Scarf"/>
+        <Item id="1140" name="Yellow Scarf"/>
+        <Item id="1141" name="Crimson Beret"/>
+        <Item id="1142" name="Gold Beret"/>
+        <Item id="1143" name="Sawed-Off"/>
+        <Item id="1144" name="Large Birch Plate (Equilateral)"/>
+        <Item id="1145" name="Large Birch Plate (Right)"/>
+        <Item id="1146" name="Large Maple Plate (Equilateral)"/>
+        <Item id="1147" name="Large Maple Plate (Right)"/>
+        <Item id="1148" name="Large Pine Plate (Equilateral)"/>
+        <Item id="1149" name="Large Pine Plate (Right)"/>
+        <Item id="1150" name="Small Birch Plate (Equilateral)"/>
+        <Item id="1151" name="Small Birch Plate (Right)"/>
+        <Item id="1152" name="Small Maple Plate (Equilateral)"/>
+        <Item id="1153" name="Small Maple Plate (Right)"/>
+        <Item id="1154" name="Small Pine Plate (Equilateral)"/>
+        <Item id="1155" name="Small Pine Plate (Right)"/>
+        <Item id="1156" name="Thief Top"/>
+        <Item id="1157" name="Thief Botttom"/>
+        <Item id="1158" name="Claim Flag"/>
+        <Item id="1159" name="Maple Syrup"/>
+        <Item id="1160" name="Pancake"/>
+        <Item id="1161" name="Waffle"/>
+        <Item id="1162" name="Dough"/>
+        <Item id="1163" name="Doughnut"/>
+        <Item id="1164" name="Pizza"/>
+        <Item id="1165" name="Nailgun"/>
+        <Item id="1166" name="Nailgun Magazine"/>
+        <Item id="1167" name="Nailgun_Barrel"/>
+        <Item id="1168" name="Civilian Vest"/>
+        <Item id="1169" name="Spec Ops Vest"/>
+        <Item id="1170" name="Spec Ops Rucksack"/>
+        <Item id="1171" name="Spec Ops Top"/>
+        <Item id="1172" name="Spec Ops Bottom"/>
+        <Item id="1173" name="Makeshift Armor"/>
+        <Item id="1174" name="Scythe"/>
+        <Item id="1175" name="Chart"/>
+        <Item id="1176" name="GPS"/>
+        <Item id="1177" name="Military Tracer Magazine"/>
+        <Item id="1178" name="Diving Tank"/>
+        <Item id="1179" name="Wetsuit Top"/>
+        <Item id="1180" name="Wetsuit Bottom"/>
+        <Item id="1181" name="Snorkel"/>
+        <Item id="1182" name="Black Dufflebag"/>
+        <Item id="1183" name="Blue Dufflebag"/>
+        <Item id="1184" name="Green Dufflebag"/>
+        <Item id="1185" name="Orange Dufflebag"/>
+        <Item id="1186" name="Purple Dufflebag"/>
+        <Item id="1187" name="Red Dufflebag"/>
+        <Item id="1188" name="White Dufflebag"/>
+        <Item id="1189" name="Yellow Dufflebag"/>
+        <Item id="1190" name="Ranger Muzzle"/>
+        <Item id="1191" name="Ranger Barrel"/>
+        <Item id="1192" name="High Caliber Military Ammunition Crate"/>
+        <Item id="1193" name="High Caliber Ranger Ammunition Box"/>
+        <Item id="1194" name="Horde Beacon"/>
+        <Item id="1195" name="Handcuffs"/>
+        <Item id="1196" name="Handcuffs Key"/>
+        <Item id="1197" name="Cable Tie"/>
+        <Item id="1198" name="Pickaxe"/>
+        <Item id="1199" name="Headlamp"/>
+        <Item id="1200" name="Military Fragmentation Magazine"/>
+        <Item id="1201" name="Military Nightvision Scope"/>
+        <Item id="1202" name="Maple Rifle Rack"/>
+        <Item id="1203" name="Birch Rifle Rack"/>
+        <Item id="1204" name="Pine Rifle Rack"/>
+        <Item id="1205" name="Maple Trophy Case"/>
+        <Item id="1206" name="Birch Trophy Case"/>
+        <Item id="1207" name="Pine Trophy Case"/>
+        <Item id="1208" name="Rain Barrel"/>
+        <Item id="1209" name="Explosive Arrow"/>
+        <Item id="1210" name="Brick Doorway"/>
+        <Item id="1211" name="Brick Garage"/>
+        <Item id="1212" name="Brick Pillar"/>
+        <Item id="1213" name="Brick Post"/>
+        <Item id="1214" name="Brick Rampart"/>
+        <Item id="1215" name="Brick Wall"/>
+        <Item id="1216" name="Brick Window"/>
+        <Item id="1217" name="Brick Doorframe"/>
+        <Item id="1218" name="Brick Garageframe"/>
+        <Item id="1219" name="Pump Jack"/>
+        <Item id="1220" name="Metal Rifle Rack"/>
+        <Item id="1221" name="Metal Trophy Case"/>
+        <Item id="1222" name="Cagelight"/>
+        <Item id="1223" name="Maple Shutter"/>
+        <Item id="1224" name="Birch Shutter"/>
+        <Item id="1225" name="Pine Shutter"/>
+        <Item id="1226" name="Metal Shutter"/>
+        <Item id="1227" name="Tanktrap"/>
+        <Item id="1228" name="Water Tank"/>
+        <Item id="1229" name="Fuel Tank"/>
+        <Item id="1230" name="Industrial Generator"/>
+        <Item id="1231" name="Maple Flag"/>
+        <Item id="1232" name="Birch Flag"/>
+        <Item id="1233" name="Pine Flag"/>
+        <Item id="1234" name="Metal Flag"/>
+        <Item id="1235" name="Maple Doubledoor"/>
+        <Item id="1236" name="Birch Doubledoor"/>
+        <Item id="1237" name="Pine Doubledoor"/>
+        <Item id="1238" name="Metal Doubledoor"/>
+        <Item id="1239" name="Large Slippery Plate"/>
+        <Item id="1240" name="Detonator"/>
+        <Item id="1241" name="Demolition Charge"/>
+        <Item id="1242" name="Makeshift Grenade"/>
+        <Item id="1243" name="Cot"/>
+        <Item id="1244" name="Neutral Sentry"/>
+        <Item id="1245" name="Maple Counter"/>
+        <Item id="1246" name="Birch Counter"/>
+        <Item id="1247" name="Pine Counter"/>
+        <Item id="1248" name="Metal Counter"/>
+        <Item id="1249" name="Fridge"/>
+        <Item id="1250" name="Oven"/>
+        <Item id="1251" name="Maple Counter Sink"/>
+        <Item id="1252" name="Birch Counter Sink"/>
+        <Item id="1253" name="Pine Counter Sink"/>
+        <Item id="1254" name="Metal Counter Sink"/>
+        <Item id="1255" name="Lamp"/>
+        <Item id="1256" name="Couch"/>
+        <Item id="1257" name="Maple Library"/>
+        <Item id="1258" name="Birch Library"/>
+        <Item id="1259" name="Pine Library"/>
+        <Item id="1260" name="Metal Library"/>
+        <Item id="1261" name="Oxygenator"/>
+        <Item id="1262" name="Triangular Maple Floor"/>
+        <Item id="1263" name="Triangular Birch Floor"/>
+        <Item id="1264" name="Triangular Pine Floor"/>
+        <Item id="1265" name="Triangular Metal Floor"/>
+        <Item id="1266" name="Triangular Maple Roof"/>
+        <Item id="1267" name="Triangular Birch Roof"/>
+        <Item id="1268" name="Triangular Pine Roof"/>
+        <Item id="1269" name="Triangular Metal Roof"/>
+        <Item id="1270" name="Gasmask"/>
+        <Item id="1271" name="Filter"/>
+        <Item id="1272" name="Blue Flare Sconce"/>
+        <Item id="1273" name="Green Flare Sconce"/>
+        <Item id="1274" name="Orange Flare Sconce"/>
+        <Item id="1275" name="Purple Flare Sconce"/>
+        <Item id="1276" name="Red Flare Sconce"/>
+        <Item id="1277" name="Yellow Flare Sconce"/>
+        <Item id="1278" name="Maple Wardrobe"/>
+        <Item id="1279" name="Birch Wardrobe"/>
+        <Item id="1280" name="Pine Wardrobe"/>
+        <Item id="1281" name="Metal Wardrobe"/>
+        <Item id="1282" name="Patio Umbrella"/>
+        <Item id="1283" name="Cooler"/>
+        <Item id="1284" name="Maple Rectangular Table"/>
+        <Item id="1285" name="Birch Rectangular Table"/>
+        <Item id="1286" name="Pine Rectangular Table"/>
+        <Item id="1287" name="Metal Rectangular Table"/>
+        <Item id="1288" name="Maple Circular Table"/>
+        <Item id="1289" name="Birch Circular Table"/>
+        <Item id="1290" name="Pine Circular Table"/>
+        <Item id="1291" name="Metal Circular Table"/>
+        <Item id="1292" name="Maple Square Table"/>
+        <Item id="1293" name="Birch Square Table"/>
+        <Item id="1294" name="Pine Square Table"/>
+        <Item id="1295" name="Metal Square Table"/>
+        <Item id="1296" name="Beach Chair"/>
+        <Item id="1297" name="Weak Glass"/>
+        <Item id="1298" name="Bulletproof Glass"/>
+        <Item id="1299" name="One Way Glass"/>
+        <Item id="1300" name="Tank Cannon"/>
+        <Item id="1301" name="Tank Scope"/>
+        <Item id="1302" name="Missile"/>
+        <Item id="1303" name="Blue Couch"/>
+        <Item id="1304" name="Green Couch"/>
+        <Item id="1305" name="Orange Couch"/>
+        <Item id="1306" name="Purple Couch"/>
+        <Item id="1307" name="Red Couch"/>
+        <Item id="1308" name="Yellow Couch"/>
+        <Item id="1309" name="Blue Cot"/>
+        <Item id="1310" name="Green Cot"/>
+        <Item id="1311" name="Orange Cot"/>
+        <Item id="1312" name="Purple Cot"/>
+        <Item id="1313" name="Red Cot"/>
+        <Item id="1314" name="Yellow Cot"/>
+        <Item id="1315" name="Blue Beach Chair"/>
+        <Item id="1316" name="Green Beach Chair"/>
+        <Item id="1317" name="Orange Beach Chair"/>
+        <Item id="1318" name="Purple Beach Chair"/>
+        <Item id="1319" name="Red Beach Chair"/>
+        <Item id="1320" name="Yellow Beach Chair"/>
+        <Item id="1321" name="Blue Patio Umbrella"/>
+        <Item id="1322" name="Green Patio Umbrella"/>
+        <Item id="1323" name="Orange Patio Umbrella"/>
+        <Item id="1324" name="Purple Patio Umbrella"/>
+        <Item id="1325" name="Red Patio Umbrella"/>
+        <Item id="1326" name="Yellow Patio Umbrella"/>
+        <Item id="1327" name="Book"/>
+        <Item id="1328" name="Note"/>
+        <Item id="1329" name="Maple Hatch"/>
+        <Item id="1330" name="Birch Hatch"/>
+        <Item id="1331" name="Pine Hatch"/>
+        <Item id="1332" name="Metal Hatch"/>
+        <Item id="1333" name="Military Top [Russia]"/>
+        <Item id="1334" name="Military Bottom [Olive]"/>
+        <Item id="1335" name="Military Helmet [Olive]"/>
+        <Item id="1336" name="Military Vest [Olive]"/>
+        <Item id="1337" name="Paintball Gun"/>
+        <Item id="1338" name="Paintballgun_Barrel"/>
+        <Item id="1339" name="Blue Paintball Hopper"/>
+        <Item id="1340" name="Green Paintball Hopper"/>
+        <Item id="1341" name="Orange Paintball Hopper"/>
+        <Item id="1342" name="Purple Paintball Hopper"/>
+        <Item id="1343" name="Red Paintball Hopper"/>
+        <Item id="1344" name="Yellow Paintball Hopper"/>
+        <Item id="1345" name="Plot"/>
+        <Item id="1346" name="Flashbang"/>
+        <Item id="1347" name="Raw Minnow"/>
+        <Item id="1348" name="Cooked Minnow"/>
+        <Item id="1349" name="Raw Goldfish"/>
+        <Item id="1350" name="Cooked Goldfish"/>
+        <Item id="1351" name="Raw Bass"/>
+        <Item id="1352" name="Cooked Bass"/>
+        <Item id="1353" name="Stealy Wheely Automobiley"/>
+        <Item id="1354" name="Ghillie Top [Olive]"/>
+        <Item id="1355" name="Ghillie Bottom [Olive]"/>
+        <Item id="1356" name="Ghillie Hood [Olive]"/>
+        <Item id="1357" name="Ghillie Vest [Olive]"/>
+        <Item id="1358" name="Pilot Top"/>
+        <Item id="1359" name="Pilot Cap"/>
+        <Item id="1360" name="Teklowvka"/>
+        <Item id="1361" name="Teklowvka Magazine"/>
+        <Item id="1362" name="Augewehr"/>
+        <Item id="1363" name="Augewehr Scope"/>
+        <Item id="1364" name="Hell's Fury"/>
+        <Item id="1365" name="Hell's Fury Drum"/>
+        <Item id="1366" name="Vonya"/>
+        <Item id="1367" name="Vonya Iron Sights"/>
+        <Item id="1368" name="Vonya Magazine"/>
+        <Item id="1369" name="Bulldog"/>
+        <Item id="1370" name="Bulldog Iron Sights"/>
+        <Item id="1371" name="Bulldog Magazine"/>
+        <Item id="1372" name="Friendly Sentry"/>
+        <Item id="1373" name="Hostile Sentry"/>
+        <Item id="1374" name="Carepackage"/>
+        <Item id="1375" name="Fusilaut"/>
+        <Item id="1376" name="Fusilaut Iron Sights"/>
+        <Item id="1377" name="Nightraider"/>
+        <Item id="1378" name="Nightraider Iron Sights"/>
+        <Item id="1379" name="Calling Card"/>
+        <Item id="1380" name="Calling Card Iron Sights"/>
+        <Item id="1381" name="Calling Card Magazine"/>
+        <Item id="1382" name="Ekho"/>
+        <Item id="1383" name="Ekho Iron Sights"/>
+        <Item id="1384" name="Ekho Magazine"/>
+        <Item id="1385" name="Mafia Fedora"/>
+        <Item id="1386" name="Mafia Tuxedo Top"/>
+        <Item id="1387" name="Mafia Tuxedo Bottom"/>
+        <Item id="1388" name="Beret [Olive]"/>
+        <Item id="1389" name="Spec Ops Beret"/>
+        <Item id="1390" name="Pool Cue"/>
+        <Item id="1391" name="Tracksuit Top"/>
+        <Item id="1392" name="Tracksuit Bottom"/>
+        <Item id="1393" name="Precision Charge"/>
+        <Item id="1394" name="HMG"/>
+        <Item id="1395" name="HMG Box"/>
+        <Item id="1396" name="Ghillie Netting [Forest]"/>
+        <Item id="1397" name="Ghillie Netting [Olive]"/>
+        <Item id="1398" name="Trout Sandwich"/>
+        <Item id="1399" name="Salmon Sandwich"/>
+        <Item id="1400" name="Minnow Sandwich"/>
+        <Item id="1401" name="Goldfish Sandwich"/>
+        <Item id="1402" name="Venison Sandwich"/>
+        <Item id="1403" name="Bass Sandwich"/>
+        <Item id="1404" name="Beef Sandwich [Organic]"/>
+        <Item id="1405" name="Cheese Steak Sandwich"/>
+        <Item id="1406" name="BLT Sandwich [Organic]"/>
+        <Item id="1407" name="Beef Sandwich [Inorganic]"/>
+        <Item id="1408" name="Cloth Mannequin"/>
+        <Item id="1409" name="Metal Mannequin"/>
+        <Item id="1410" name="Maple Plaque"/>
+        <Item id="1411" name="Birch Plaque"/>
+        <Item id="1412" name="Pine Plaque"/>
+        <Item id="1413" name="Metal Plaque"/>
+        <Item id="1414" name="Maple Ramp Wall"/>
+        <Item id="1415" name="Birch Ramp Wall"/>
+        <Item id="1416" name="Pine Ramp Wall"/>
+        <Item id="1417" name="Metal Ramp Wall"/>
+        <Item id="1418" name="Brick Ramp Wall"/>
+        <Item id="1419" name="Coalition Bottom"/>
+        <Item id="1420" name="Ensign Coalition Top"/>
+        <Item id="1421" name="Lieutenant Coalition Top"/>
+        <Item id="1422" name="Major Coalition Top"/>
+        <Item id="1423" name="Commander Coalition Top"/>
+        <Item id="1424" name="Captain Coalition Top"/>
+        <Item id="1425" name="Coalition Vest"/>
+        <Item id="1426" name="Coalition Cap"/>
+        <Item id="1427" name="Coalition Helmet"/>
+        <Item id="1428" name="Coalition Beret"/>
+        <Item id="1429" name="Coalition Captain Hat"/>
+        <Item id="1430" name="Upgraded Cake Blueprint"/>
+        <Item id="1431" name="Upgraded Cake"/>
+        <Item id="1432" name="Upgraded Fishing Rod"/>
+        <Item id="1433" name="Upgraded Fishing Rod Blueprint"/>
+        <Item id="1434" name="Raw Squid"/>
+        <Item id="1435" name="Cooked Squid"/>
+        <Item id="1436" name="Quadbarrel"/>
+        <Item id="1437" name="Quadbarrel Blueprint"/>
+        <Item id="1438" name="Bayonet"/>
+        <Item id="1439" name="Bayonet Blueprint"/>
+        <Item id="1440" name="Industrial Gas Can"/>
+        <Item id="1441" name="Shadowstalker Mk. II"/>
+        <Item id="1442" name="Shadowstalker Mk. II Scope"/>
+        <Item id="1443" name="Shadowstalker Mk. II Drum"/>
+        <Item id="1444" name="Bluntforce_Muffler"/>
+        <Item id="1445" name="Walkie Talkie"/>
+        <Item id="1446" name="Earpiece"/>
+        <Item id="1447" name="Scalar"/>
+        <Item id="1448" name="Scalar Iron Sights"/>
+        <Item id="1449" name="Scalar Magazine"/>
+        <Item id="1450" name="Vehicle Battery"/>
+        <Item id="1451" name="Tire"/>
+        <Item id="1452" name="Whole Coconut"/>
+        <Item id="1453" name="Split Coconut"/>
+        <Item id="1454" name="Black Trunks"/>
+        <Item id="1455" name="Blue Trunks"/>
+        <Item id="1456" name="Green Trunks"/>
+        <Item id="1457" name="Orange Trunks"/>
+        <Item id="1458" name="Purple Trunks"/>
+        <Item id="1459" name="Red Trunks"/>
+        <Item id="1460" name="White Trunks"/>
+        <Item id="1461" name="Yellow Trunks"/>
+        <Item id="1462" name="Coastguard Top"/>
+        <Item id="1463" name="Coastguard Bottom"/>
+        <Item id="1464" name="Blindfold"/>
+        <Item id="1465" name="Picket Sign"/>
+        <Item id="1466" name="Stereo"/>
+        <Item id="1467" name="Maple Placard"/>
+        <Item id="1468" name="Birch Placard"/>
+        <Item id="1469" name="Pine Placard"/>
+        <Item id="1470" name="Metal Placard"/>
+        <Item id="1471" name="HMG [Fighter Jet]"/>
+        <Item id="1472" name="Fighter Pilot Helmet"/>
+        <Item id="1473" name="Fighter Pilot Top"/>
+        <Item id="1474" name="Fighter Pilot Bottom"/>
+        <Item id="1475" name="Jackhammer"/>
+        <Item id="1476" name="Luger"/>
+        <Item id="1477" name="Maschinengewehr"/>
+        <Item id="1478" name="Maschinengewehr Iron Sights"/>
+        <Item id="1479" name="Maschinengewehr Magazine"/>
+        <Item id="1480" name="Determinator"/>
+        <Item id="1481" name="Empire"/>
+        <Item id="1482" name="Empire Iron Sights"/>
+        <Item id="1483" name="Empire Magazine"/>
+        <Item id="1484" name="Devil's Bane"/>
+        <Item id="1485" name="Devil's Bane Magazine"/>
+        <Item id="1486" name="Devil's Bane Iron Sights"/>
+        <Item id="1487" name="Luger Magazine"/>
+        <Item id="1488" name="Swissgewehr"/>
+        <Item id="1489" name="Swissgewehr Iron Sights"/>
+        <Item id="1490" name="Swissgewehr Magazine"/>
+        <Item id="1491" name="Military Top [Germany]"/>
+        <Item id="1492" name="Ghillie Top [Dark]"/>
+        <Item id="1493" name="Ghillie Bottom [Dark]"/>
+        <Item id="1494" name="Ghillie Hood [Dark]"/>
+        <Item id="1495" name="Ghillie Vest [Dark]"/>
+        <Item id="1496" name="Shark Fin"/>
+        <Item id="1497" name="Ducky Life Preserver"/>
+        <Item id="1498" name="Lederhosen Top"/>
+        <Item id="1499" name="Lederhosen Bottom"/>
+        <Item id="1500" name="Ghillie Netting [Dark]"/>
+        <Item id="1501" name="Early Access T-Shirt"/>
+        <Item id="1502" name="Early Access Beret"/>
+        <Item id="1503" name="Zweihander"/>
+        <Item id="1504" name="Pickelhaube"/>
+        <Item id="1505" name="Kaiser Top"/>
+        <Item id="1506" name="Kaiser Bottom"/>
+        <Item id="1507" name="Socketwrench"/>
+        <Item id="1508" name="Compass"/>
+        <Item id="1509" name="Clock"/>
+        <Item id="1510" name="Chewing Gum"/>
+        <Item id="1511" name="Arctic Alicepack"/>
+        <Item id="1512" name="Arctic Ghillie Top"/>
+        <Item id="1513" name="Arctic Ghillie Bottom"/>
+        <Item id="1514" name="Arctic Ghillie Vest"/>
+        <Item id="1515" name="Arctic Ghillie Hood"/>
+        <Item id="1516" name="Arctic Military Top"/>
+        <Item id="1517" name="Arctic Military Bottom"/>
+        <Item id="1518" name="Arctic Military Vest"/>
+        <Item id="1519" name="Arctic Military Helmet"/>
+        <Item id="1520" name="Impact Grenade"/>
+        <Item id="1521" name="Cobra Jam"/>
+        <Item id="1522" name="CharacterMeshReplacementTest"/>
+        <Item id="1523" name="Offbrand Hoodie"/>
+        <Item id="1524" name="Zero Kelvin Weapon Kit"/>
+        <Item id="1525" name="Spec Ops Helmet"/>
+        <Item id="1526" name="Lil' EBR Rapper Hoodie"/>
+        <Item id="1527" name="Lil' EBR Rapper Pants"/>
+        <Item id="1528" name="Belgian Infantry Backpack"/>
+        <Item id="1529" name="Belgian Infantry Gear"/>
+        <Item id="1530" name="Belgian Infantry Helmet"/>
+        <Item id="1531" name="Belgian Infantry Top"/>
+        <Item id="1532" name="Belgian Infantry Bottom"/>
+        <Item id="1533" name="Belgian Acid Trooper Canister"/>
+        <Item id="1534" name="Belgian Acid Trooper Gear"/>
+        <Item id="1535" name="Belgian Acid Trooper Visor"/>
+        <Item id="1536" name="Belgian Acid Trooper Shirt"/>
+        <Item id="1537" name="Belgian Acid Trooper Pants"/>
+        <Item id="1543" name="Belgian Poacher Top"/>
+        <Item id="1544" name="Belgian Poacher Bottom"/>
+        <Item id="1545" name="Belgian Poacher Hat"/>
+        <Item id="1546" name="Belgian Poacher Ascot"/>
+        <Item id="1547" name="Belgian Poacher Back-pack"/>
+        <Item id="1553" name="Cottontail Ops Tail"/>
+        <Item id="1554" name="Rootbeer Ranger Rocket"/>
+        <Item id="1555" name="Cottontail Ops Ears"/>
+        <Item id="1556" name="Cottontail Ops Helmet"/>
+        <Item id="1557" name="Rootbeer Ranger Hat"/>
+        <Item id="1558" name="Cottontail Ops Bandana"/>
+        <Item id="1559" name="Rootbeer Ranger Breather"/>
+        <Item id="1560" name="Cottontail Ops Bottom"/>
+        <Item id="1561" name="Rootbeer Ranger Bottom"/>
+        <Item id="1562" name="Cottontail Ops Top"/>
+        <Item id="1563" name="Rootbeer Ranger Top"/>
+        <Item id="1564" name="Cottontail Ops Vest"/>
+        <Item id="1565" name="Rootbeer Ranger Holster"/>
+        <Item id="1566" name="Rio National Guard Hat"/>
+        <Item id="1567" name="Rio Vaccinator Hat"/>
+        <Item id="1568" name="Rio National Guard Sash"/>
+        <Item id="1569" name="Rio Vaccinator Vest"/>
+        <Item id="1570" name="Rio National Guard Top"/>
+        <Item id="1571" name="Rio Vaccinator Top"/>
+        <Item id="1572" name="Rio National Guard Bottom"/>
+        <Item id="1573" name="Rio Vaccinator Bottom"/>
+        <Item id="1574" name="Rio Tamer's Macaw"/>
+        <Item id="1575" name="Rio Tamer Vest"/>
+        <Item id="1576" name="Rio Tamer Birdcage"/>
+        <Item id="1577" name="Rio Tamer Bottom"/>
+        <Item id="1578" name="Rio Tamer Top"/>
+        <Item id="1579" name="Zhuge Liang's Feather Fan Cape"/>
+        <Item id="1580" name="Zhuge Liang's Pants"/>
+        <Item id="1581" name="Zhuge Liang's Hat"/>
+        <Item id="1582" name="Zhuge Liang's Top"/>
+        <Item id="1583" name="Zhuge Liang's Accessories"/>
+        <Item id="1584" name="Lu Bu's Cape"/>
+        <Item id="1585" name="Lu Bu's Pants"/>
+        <Item id="1586" name="Lu Bu's Feathered Headress"/>
+        <Item id="1587" name="Lu Bu's Shirt"/>
+        <Item id="1588" name="Lu Bu's Armor"/>
+        <Item id="1589" name="Guan Yu's Polearm"/>
+        <Item id="1590" name="Guan Yu's Pants"/>
+        <Item id="1591" name="Guan Yu's Feathered Headress"/>
+        <Item id="1592" name="Guan Yu's Beard"/>
+        <Item id="1593" name="Guan Yu's Shirt"/>
+        <Item id="1594" name="Guan Yu's Armor"/>
+        <Item id="1595" name="Invitation"/>
+        <Item id="1597" name="Duffle Bag"/>
+        <Item id="1598" name="Black Bowtie"/>
+        <Item id="1599" name="Green Bowtie"/>
+        <Item id="1600" name="Navy Bowtie"/>
+        <Item id="1601" name="Gray Plaid Bowtie"/>
+        <Item id="1602" name="Red Plaid Bowtie"/>
+        <Item id="1603" name="Red Bowtie"/>
+        <Item id="1604" name="White Bowtie"/>
+        <Item id="1605" name="Clown Hair"/>
+        <Item id="1606" name="Feathered Hat"/>
+        <Item id="1607" name="Feline Hair"/>
+        <Item id="1608" name="Headset"/>
+        <Item id="1609" name="1 Medal"/>
+        <Item id="1610" name="Nerdy Glasses"/>
+        <Item id="1611" name="Octavio"/>
+        <Item id="1612" name="Operator Cap"/>
+        <Item id="1613" name="Pilot Respirator"/>
+        <Item id="1614" name="Radio Backpack"/>
+        <Item id="1615" name="Runic Cape"/>
+        <Item id="1616" name="Shoulder Falcon"/>
+        <Item id="1617" name="Beige Skater Bottom"/>
+        <Item id="1618" name="Black Skater Bottom"/>
+        <Item id="1619" name="Green Skater Bottom"/>
+        <Item id="1620" name="Navy Skater Bottom"/>
+        <Item id="1621" name="White Skater Bottom"/>
+        <Item id="1622" name="Black Skater Top"/>
+        <Item id="1623" name="Brown Skater Top"/>
+        <Item id="1624" name="Gray Skater Top"/>
+        <Item id="1625" name="Navy Skater Top"/>
+        <Item id="1626" name="Pink Skater Top"/>
+        <Item id="1627" name="Red Skater Top"/>
+        <Item id="1628" name="Tank Hat"/>
+        <Item id="1629" name="Black Tie"/>
+        <Item id="1630" name="Fish Tie"/>
+        <Item id="1631" name="Green Tie"/>
+        <Item id="1632" name="Black Tie"/>
+        <Item id="1633" name="Navy Gray Tie"/>
+        <Item id="1634" name="Plaid Navy Tie"/>
+        <Item id="1635" name="Plaid Red Tie"/>
+        <Item id="1636" name="Red Tie"/>
+        <Item id="1637" name="Spotty Tie"/>
+        <Item id="1638" name="White Tie"/>
+        <Item id="1639" name="Elver Map Bundle II"/>
+        <Item id="1640" name="P9nda Mask"/>
+        <Item id="1641" name="Double Experienced Beret"/>
+        <Item id="1642" name="Triple Experienced Beret"/>
+        <Item id="1643" name="Arctic Fox"/>
+        <Item id="1644" name="Arctic Fishing Hat"/>
+        <Item id="1645" name="Arctic Fishing Pack"/>
+        <Item id="1646" name="Arctic Hunter Balaclava"/>
+        <Item id="1647" name="Arctic Hunter Belt"/>
+        <Item id="1648" name="Arctic Hunter Bottom"/>
+        <Item id="1649" name="Arctic Hunter Top"/>
+        <Item id="1650" name="Arctic Hunter Hood"/>
+        <Item id="1651" name="Arctic Hunter Pack"/>
+        <Item id="1652" name="Divine Duneman Pants"/>
+        <Item id="1653" name="Divine Duneman Durag"/>
+        <Item id="1654" name="Divine Duneman Shirt"/>
+        <Item id="1655" name="Divine Duneman Gem Necklace"/>
+        <Item id="1656" name="Feline Collar"/>
+        <Item id="1658" name="Blue Boonie"/>
+        <Item id="1659" name="Green Boonie"/>
+        <Item id="1660" name="Purple Boonie"/>
+        <Item id="1661" name="Tan Boonie"/>
+        <Item id="1662" name="Camel Shirt"/>
+        <Item id="1663" name="Caracal Shirt"/>
+        <Item id="1664" name="Disguise Mask"/>
+        <Item id="1665" name="Blue Loose Shirt"/>
+        <Item id="1666" name="Olive Loose Shirt"/>
+        <Item id="1667" name="Purple Loose Shirt"/>
+        <Item id="1668" name="Tan Loose Shirt"/>
+        <Item id="1669" name="Blue Mask"/>
+        <Item id="1670" name="Olive Mask"/>
+        <Item id="1671" name="Purple Mask"/>
+        <Item id="1672" name="Tan Mask"/>
+        <Item id="1673" name="Palm Hoodie"/>
+        <Item id="1674" name="Reading Glasses"/>
+        <Item id="1675" name="Blue Sweatpants"/>
+        <Item id="1676" name="Olive Sweatpants"/>
+        <Item id="1677" name="Purple Sweatpants"/>
+        <Item id="1678" name="Tan Sweatpants"/>
+        <Item id="1679" name="Ripped Jeans"/>
+        <Item id="1680" name="Luxury Glasses"/>
+        <Item id="1681" name="Cool Hat"/>
+        <Item id="1682" name="Kuwait Letterman Jacket"/>
+        <Item id="1683" name="Floral Hair"/>
+        <Item id="1684" name="Parachute Pack"/>
+        <Item id="1685" name="Runman"/>
+        <Item id="1686" name="Sandstorm Crusader"/>
+        <Item id="1687" name="Straw Hat"/>
+        <Item id="1688" name="Mythic Placeholder Mask"/>
+        <Item id="1689" name="Chef Zombie Plush"/>
+        <Item id="1690" name="Butterfly"/>
+        <Item id="1691" name="Bounce Charge"/>
+        <Item id="1692" name="Christmas Tree"/>
+        <Item id="1693" name="Snow Shovel"/>
+        <Item id="1694" name="Candy Cane Fragments"/>
+        <Item id="1695" name="Presents"/>
+        <Item id="1696" name="Presents"/>
+        <Item id="1697" name="Presents"/>
+        <Item id="1698" name="Presents"/>
+        <Item id="1699" name="Presents"/>
+        <Item id="1700" name="Festive Lights"/>
+        <Item id="1701" name="Wreath"/>
+        <Item id="1702" name="Small Ice Castle"/>
+        <Item id="1703" name="Large Ice Castle"/>
+        <Item id="1704" name="Saw"/>
+        <Item id="1705" name="Stocking"/>
+        <Item id="1706" name="Gingerbread Cookie"/>
+        <Item id="1707" name="Crystal Ice"/>
+        <Item id="1708" name="Drumstick"/>
+        <Item id="1709" name="Arrowhead"/>
+        <Item id="1710" name="Goggle Cap"/>
+        <Item id="1711" name="Fancy Glasses"/>
+        <Item id="1712" name="Golf Bag"/>
+        <Item id="1713" name="Black Hockey Mask"/>
+        <Item id="1714" name="Monocular"/>
+        <Item id="1715" name="Arid Map Mystery Box"/>
+        <Item id="1716" name="Chopstick Ponytail"/>
+        <Item id="1717" name="Privateer Top"/>
+        <Item id="1718" name="Responder Rig"/>
+        <Item id="1719" name="Skull Bandana"/>
+        <Item id="1720" name="Dark Gray Suit Slacks"/>
+        <Item id="1721" name="Light Gray Suit Slacks"/>
+        <Item id="1722" name="Tan Suit Slacks"/>
+        <Item id="1723" name="Navy Suit Slacks"/>
+        <Item id="1724" name="Dark Gray Suit Jacket"/>
+        <Item id="1725" name="Light Gray Suit Jacket"/>
+        <Item id="1726" name="Tan Suit Jacket"/>
+        <Item id="1727" name="Navy Suit Jacket"/>
+        <Item id="1728" name="Surplus Jacket"/>
+        <Item id="1729" name="Tracksuit Bottom (Cosmetic)"/>
+        <Item id="1730" name="Vintage Helmet"/>
+        <Item id="1731" name="Welding Goggles"/>
+        <Item id="1732" name="Festive Bow"/>
+        <Item id="1733" name="Festive Touque"/>
+        <Item id="1734" name="Festive Bandolier"/>
+        <Item id="1735" name="Festive Belt"/>
+        <Item id="1736" name="Biohazard Zombie Plush"/>
+        <Item id="1737" name="Camel Pyjama Bottoms"/>
+        <Item id="1738" name="Camel Pyjama Top"/>
+        <Item id="1739" name="Caracal Pyjama Bottoms"/>
+        <Item id="1740" name="Caracal Pyjama Top"/>
+        <Item id="1741" name="Fish Pyjama Bottoms"/>
+        <Item id="1742" name="Fish Pyjama Top]"/>
+        <Item id="1743" name="Palm Pyjama Bottoms"/>
+        <Item id="1744" name="Fish Pyjama Top"/>
+        <Item id="1745" name="Dunce Sticker"/>
+        <Item id="1746" name="Nazar Pin"/>
+        <Item id="1747" name="Artsy Beret"/>
+        <Item id="1748" name="Heister Mask"/>
+        <Item id="1749" name="Armored Suitcase"/>
+        <Item id="1750" name="Feline Friend"/>
+        <Item id="1751" name="Range Specs"/>
+        <Item id="1752" name="Slick Hair"/>
+        <Item id="1753" name="Brimmed Ushanka"/>
+        <Item id="1754" name="Camel Nightcap"/>
+        <Item id="1755" name="Caracal Nightcap"/>
+        <Item id="1756" name="Fish Nightcap"/>
+        <Item id="1757" name="Palm Nightcap"/>
+        <Item id="1758" name="Ironed Khakis"/>
+        <Item id="1759" name="Trimmed Trenchcoat"/>
+        <Item id="1760" name="Private Eye's Camera"/>
+        <Item id="1761" name="Private Eye's Fedora"/>
+        <Item id="1762" name="Bubble Pipe"/>
+        <Item id="1763" name="Platinum Monocle"/>
+        <Item id="1764" name="Housing Planner"/>
+        <Item id="1765" name="Cultist's Satchel"/>
+        <Item id="1766" name="Cultist's Hood"/>
+        <Item id="1767" name="Cultist's Mask"/>
+        <Item id="1768" name="Cultist's Robes Bottom"/>
+        <Item id="1769" name="Cultist's Robes Top"/>
+        <Item id="1770" name="Cultist's Accessories"/>
+        <Item id="1771" name="Backpack Turtle"/>
+        <Item id="1772" name="Companion Penguin"/>
+        <Item id="1773" name="Companion Crab"/>
+        <Item id="1774" name="Demon of Greed's Head"/>
+        <Item id="1775" name="Demon of Greed's Horns"/>
+        <Item id="1776" name="Demon of Greed's Pants"/>
+        <Item id="1777" name="Demon of Greed's Shirt"/>
+        <Item id="1778" name="Demon of Greed's Tail"/>
+        <Item id="1779" name="Pirate Captain's Beard"/>
+        <Item id="1780" name="Pirate Captain's Cannon"/>
+        <Item id="1781" name="Pirate Captain's Coat"/>
+        <Item id="1782" name="Pirate Captain's Hat"/>
+        <Item id="1783" name="Pirate Captain's Pants"/>
+        <Item id="1784" name="Pirate Captain's Shirt"/>
+        <Item id="1785" name="Demon Hunter's Cloak"/>
+        <Item id="1786" name="Demon Hunter's Hat"/>
+        <Item id="1787" name="Demon Hunter's Mask"/>
+        <Item id="1788" name="Demon Hunter's Pants"/>
+        <Item id="1789" name="Demon Hunter's Shirt"/>
+        <Item id="1790" name="Demon Hunter's Vest"/>
+        <Item id="1791" name="Blindfold (Cosmetic)"/>
+        <Item id="1792" name="Facemask"/>
+        <Item id="1793" name="Fanny Pack (Cosmetic)"/>
+        <Item id="1794" name="Fox Head"/>
+        <Item id="1795" name="Guitar Case"/>
+        <Item id="1796" name="Biker Vest"/>
+        <Item id="1797" name="Kitsune Hat"/>
+        <Item id="1798" name="Knot"/>
+        <Item id="1799" name="Mining Helmet"/>
+        <Item id="1800" name="Pixel Glasses"/>
+        <Item id="1801" name="Puffy Vest"/>
+        <Item id="1802" name="Scarf (Cosmetic)"/>
+        <Item id="1803" name="Spark-coated Welding Mask"/>
+        <Item id="1804" name="Black Overalls"/>
+        <Item id="1805" name="Corduroy Overalls"/>
+        <Item id="1806" name="Farmer Overalls"/>
+        <Item id="1807" name="Denim Overalls"/>
+        <Item id="1808" name="Khaki Overalls"/>
+        <Item id="1809" name="Spliced Black and White Pants"/>
+        <Item id="1811" name="Black Formal Shirt"/>
+        <Item id="1812" name="Blue Formal Shirt"/>
+        <Item id="1813" name="Penguin Shirt"/>
+        <Item id="1814" name="Pink Formal Shirt"/>
+        <Item id="1815" name="White Formal Shirt"/>
+        <Item id="1816" name="Yellow Formal Shirt"/>
+        <Item id="1817" name="A6 Polaris Map Mystery Box"/>
+        <Item id="1818" name="Pixel Glasses"/>
+        <Item id="1819" name="Puffy Vest"/>
+        <Item id="1820" name="Scarf"/>
+        <Item id="1821" name="Spark-coated Welding Mask"/>
+        <Item id="1822" name="Black Overalls"/>
+        <Item id="1823" name="Corduroy Overalls"/>
+        <Item id="1824" name="Farmer Overalls"/>
+        <Item id="1825" name="Scout Balaclava"/>
+        <Item id="1826" name="Scout Binoculars"/>
+        <Item id="1827" name="Scout Medbag"/>
+        <Item id="1828" name="Scout Pants"/>
+        <Item id="1829" name="Scout Shirt"/>
+        <Item id="1830" name="Scout Turban"/>
+        <Item id="1831" name="Goggly Hair"/>
+        <Item id="1832" name="Oversized Spectacles"/>
+        <Item id="1833" name="Tourist Pack"/>
+        <Item id="1834" name="Tourist Pocketed Belt"/>
+        <Item id="1835" name="Tourist Shorts"/>
+        <Item id="1836" name="Tourist Top"/>
+        <Item id="1838" name="Bounce Grenade"/>
+        <Item id="1839" name="Impact-Absorbing Boots"/>
+    </Items>
+</UnturnedItems>
