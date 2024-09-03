@@ -1,4 +1,4 @@
-package ru.herooo.projects.unturnedkitsxmlgenerator.unturneditemfinder;
+package ru.herooo.projects.unturnedkitsxmlgenerator;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;
@@ -17,12 +17,8 @@ public class UnturnedItemFinder {
     private Document xml;
     private String mod;
 
-    public UnturnedItemFinder(String filePath, UnturnedItemFinderReadType type) throws IOException, ParserConfigurationException, SAXException {
-        // Получаем xml
-        switch (type) {
-            case RESOURCE -> xml = XMLUtils.parseDocument(getClass().getResourceAsStream("/" + filePath));
-            case OUTSIDE -> xml = XMLUtils.parseDocument(filePath);
-        }
+    public UnturnedItemFinder(String filePath) throws IOException, ParserConfigurationException, SAXException {
+        xml = XMLUtils.parseDocument(filePath);
 
         // Ищем название мода предметов
         if (xml != null) {

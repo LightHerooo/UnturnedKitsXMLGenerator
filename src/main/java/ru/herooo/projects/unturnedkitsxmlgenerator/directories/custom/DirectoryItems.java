@@ -39,7 +39,7 @@ public class DirectoryItems extends DirectoryWithExample {
         rootNode.appendChild(comment);
 
         Node modNode = document.createElement("Mod");
-        modNode.setTextContent("SomeMod");
+        modNode.setTextContent("ModName");
         rootNode.appendChild(modNode);
 
         Node itemsNode = createItemsNode(document);
@@ -60,6 +60,21 @@ public class DirectoryItems extends DirectoryWithExample {
         Element itemElement = document.createElement("Item");
         itemElement.setAttribute("id", "101010101");
         itemElement.setAttribute("name", "ModItem");
+        itemsNode.appendChild(itemElement);
+
+        itemElement = document.createElement("Item");
+        itemElement.setAttribute("id", "2");
+        itemElement.setAttribute("name", "Work Jeans");
+        itemsNode.appendChild(itemElement);
+
+        itemElement = document.createElement("Item");
+        itemElement.setAttribute("id", "67");
+        itemElement.setAttribute("name", "Metal Scrap");
+        itemsNode.appendChild(itemElement);
+
+        itemElement = document.createElement("Item");
+        itemElement.setAttribute("id", "79");
+        itemElement.setAttribute("name", "Canned Tuna");
         itemsNode.appendChild(itemElement);
 
         return itemsNode;

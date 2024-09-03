@@ -6,8 +6,6 @@ import ru.herooo.projects.unturnedkitsxmlgenerator.directories.custom.DirectoryI
 import ru.herooo.projects.unturnedkitsxmlgenerator.directories.custom.DirectoryResults;
 import ru.herooo.projects.unturnedkitsxmlgenerator.pojo.UnturnedItem;
 import ru.herooo.projects.unturnedkitsxmlgenerator.pojo.UnturnedKitItem;
-import ru.herooo.projects.unturnedkitsxmlgenerator.unturneditemfinder.UnturnedItemFinder;
-import ru.herooo.projects.unturnedkitsxmlgenerator.unturneditemfinder.UnturnedItemFinderReadType;
 import ru.herooo.projects.unturnedkitsxmlgenerator.utils.FileUtils;
 import ru.herooo.projects.unturnedkitsxmlgenerator.utils.StringUtils;
 import ru.herooo.projects.unturnedkitsxmlgenerator.utils.XMLUtils;
@@ -25,14 +23,11 @@ public class UnturnedKitsXMLCreator {
     private List<UnturnedItemFinder> finders = new ArrayList<>();
 
     public UnturnedKitsXMLCreator() throws IOException, ParserConfigurationException, SAXException {
-        // Добавляем стандартный поисковик предметов
-        finders.add(new UnturnedItemFinder("Official.xml", UnturnedItemFinderReadType.RESOURCE));
-
-        // Добавляем кастомные поисковики предметов
+        // Добавляем поисковики предметов
         DirectoryItems directoryItems = new DirectoryItems();
         for (File file: directoryItems.getFiles()) {
             if (FileUtils.getExtension(file).equals(".xml")) {
-                finders.add(new UnturnedItemFinder(file.getPath(), UnturnedItemFinderReadType.OUTSIDE));
+                finders.add(new UnturnedItemFinder(file.getPath()));
             }
         }
     }

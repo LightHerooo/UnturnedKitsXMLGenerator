@@ -33,7 +33,7 @@ public class DirectoryKits extends DirectoryWithExample {
         document.appendChild(rootNode);
 
         Node nameNode = document.createElement("Name");
-        nameNode.setTextContent("SomeName");
+        nameNode.setTextContent("KitName");
         rootNode.appendChild(nameNode);
 
         Node itemsNode = createItemsNode(document);
@@ -74,8 +74,6 @@ public class DirectoryKits extends DirectoryWithExample {
         itemElement.setAttribute("amount", "3");
         itemsNode.appendChild(itemElement);
 
-        itemElement = document.createElement("Item");
-
         itemsNode.appendChild(document.createTextNode("\n"));
 
         Comment comment = document.createComment("Если предмет относится к определённой модификации, следует указать её название в атрибуте mod");
@@ -87,9 +85,10 @@ public class DirectoryKits extends DirectoryWithExample {
         comment = document.createComment("Данный атрибут необязателен, но он ускорит генерацию XML-файла наборов (китов)");
         itemsNode.appendChild(comment);
 
+        itemElement = document.createElement("Item");
         itemElement.setAttribute("name", "ModItem");
         itemElement.setAttribute("amount", "1");
-        itemElement.setAttribute("mod", "SomeMod");
+        itemElement.setAttribute("mod", "ModName");
         itemsNode.appendChild(itemElement);
 
         return itemsNode;
