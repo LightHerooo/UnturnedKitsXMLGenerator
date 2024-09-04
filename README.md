@@ -77,6 +77,7 @@
                 <Item amount="3" id="79"/>
                 <Item amount="1" id="101010101"/>
             </Items>
+            <Cooldown>600</Cooldown>
         </Kit>
     </Kits>
 </KitsConfiguration>
