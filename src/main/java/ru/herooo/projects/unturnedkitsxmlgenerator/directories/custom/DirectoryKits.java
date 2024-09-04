@@ -32,20 +32,24 @@ public class DirectoryKits extends DirectoryWithExample {
         Node rootNode = document.createElement("Kit");
         document.appendChild(rootNode);
 
+        // Имя набора (кита)
         Node nameNode = document.createElement("Name");
-        nameNode.setTextContent("KitName");
         rootNode.appendChild(nameNode);
 
+        nameNode.setTextContent("KitName");
+
+        // Предметы
         Node itemsNode = createItemsNode(document);
         rootNode.appendChild(itemsNode);
 
+        // Задержка повторной выдачи
         Node cooldownNode = document.createElement("Cooldown");
+        rootNode.appendChild(cooldownNode);
 
         Comment comment = document.createComment("Задержка повторной выдачи (в секундах)");
         cooldownNode.appendChild(comment);
 
         cooldownNode.setTextContent("600");
-        rootNode.appendChild(itemsNode);
 
         try {
             example = XMLUtils.saveDocument(document, example);

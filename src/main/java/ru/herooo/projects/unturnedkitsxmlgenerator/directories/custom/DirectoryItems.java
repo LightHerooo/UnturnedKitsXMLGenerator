@@ -32,6 +32,7 @@ public class DirectoryItems extends DirectoryWithExample {
         Node rootNode = document.createElement("UnturnedItems");
         document.appendChild(rootNode);
 
+        // Название мода предметов
         Comment comment = document.createComment("В теге Mod указывается название модификации, в которую входят перечисленные предметы");
         rootNode.appendChild(comment);
 
@@ -39,9 +40,11 @@ public class DirectoryItems extends DirectoryWithExample {
         rootNode.appendChild(comment);
 
         Node modNode = document.createElement("Mod");
-        modNode.setTextContent("ModName");
         rootNode.appendChild(modNode);
 
+        modNode.setTextContent("ModName");
+
+        // Предметы
         Node itemsNode = createItemsNode(document);
         rootNode.appendChild(itemsNode);
 
