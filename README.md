@@ -5,7 +5,7 @@
 - Java 21 ([JDK](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html))
 
 ## Установка
-1. Скачайте [ZIP](https://disk.yandex.ru/d/CuHt_AFXpU7Prg)
+1. Скачайте [ZIP](https://disk.yandex.ru/d/ySaqu5N0sqdrKw)
 2. Распакуйте архив
 
 ## Использование
