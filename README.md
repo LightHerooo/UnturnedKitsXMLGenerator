@@ -41,6 +41,7 @@
         <!--Данный атрибут необязателен, но он ускорит генерацию XML-файла наборов (китов)-->
         <Item amount="1" mod="ModName" name="ModItem"/>
     </Items>
+    <Cooldown>600</Cooldown>
 </Kit>
 ```
 
